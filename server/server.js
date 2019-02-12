@@ -20,6 +20,6 @@ app.use((req, res) => {
   res.status(404).sendFile(path.join(PUBLIC_PATH, '/404/index.html'));
 });
 
-const port = process.env.PORT || port;
+const port = process.env.PORT || '8000';
 app.listen(port);
 console.log(`Server listening on port ${port}`);
