@@ -40,7 +40,6 @@ export const query = graphql`
   query PostBySlug($slug: String!) {
     site {
       siteMetadata {
-        disqusShortname
         subtitle
         title
         url

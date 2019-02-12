@@ -1,6 +1,5 @@
 import React from 'react';
 import { graphql, StaticQuery } from 'gatsby';
-import ReactDisqusComments from 'react-disqus-comments';
 
 export class CommentsContainer extends React.PureComponent {
   state = { show: false };
@@ -46,7 +45,6 @@ export const Comments = (props) => (
       query CommentsQuery {
         site {
           siteMetadata {
-            disqusShortname
             url
           }
         }
