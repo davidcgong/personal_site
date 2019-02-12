@@ -11,7 +11,7 @@ tags:
   - "Regression"
   - "Machine Learning"
   - "scikit-learn"
-description: "Analysis of various regression models for forecasting real estate home pricing data in scikit-learn."
+description: "Analysis of various regression models for forecasting real estate pricing data in sklearn."
 canonical: "https://davidcgong.com"
 ---
 
