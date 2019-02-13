@@ -11,17 +11,19 @@ tags:
   - "Natural Language Processing"
   - "Machine Learning"
   - "scikit-learn"
-description: "An eye-opening experience with Options trading on Robinhood."
+description: "An eye-opening experience with Options trading on Robinhood"
 ---
 
 >Robinhood is an investing and trading application that does not require to pay any commissions. That's right, ZERO commissions. Weekly options contract trading has never seemed more appealing.
 
 ![Robinhood, a millenial's life-saver when it comes to investing. And dare I say it, trading!](https://d1qb2nb5cznatu.cloudfront.net/startups/i/227792-c28dd8f90d35010d984fdb5c0756034e-medium_jpg.jpg?buster=1543696028)
 
-A democratization of the entire investing industry, [Robinhood](https://robinhood.com) is definitely one of the best applications I have come across in terms of UI/UX Design. As a college student looking to get his foot wet with investing, Robinhood was the perfect application for me to start my venture.
+A democratization of the entire investing industry, [Robinhood](https://robinhood.com) is definitely one of the best applications I have come across in terms of investing. As a college student looking to get his foot wet with investing, Robinhood was the perfect application for me to start my venture.
 >Spoiler alert: Things have been going pretty well and I've learned a lot!
 
 I do want to attribute some of my success, however to luck. I made a few earning call plays when it came to options and I made a significant amount of money off of some good bets, albeit without sacrificing too much of my account value.
+
+Two versions of 
 
 *   [profanity](https://pypi.org/project/profanity/) (the ideal package name)
 *   [better-profanity](https://pypi.org/project/better-profanity/): _“Inspired from package_ [_profanity_](https://github.com/ben174/profanity) _of_ [_Ben Friedland_](https://github.com/ben174)_, this library is much faster than the original one.”_
