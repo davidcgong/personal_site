@@ -6,7 +6,7 @@ slug: "/about"
 
 I currently study Computer Science at the [**Georgia Institute of Technology**](http://gatech.edu) and will be an Application Engineering Intern at Sony PlayStation (Summer 2019). In the past, I have worked as a Software Engineer under contract at Siemens for half a year.
 
-My side gigs involve primarily professional-level table tennis, options trading.
+My side gigs involve primarily professional-level table tennis and options trading.
 
 A few of my notable projects include:
 

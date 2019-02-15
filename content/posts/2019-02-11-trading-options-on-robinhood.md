@@ -8,9 +8,9 @@ img: "/media/xkcd-290.png"
 category: "Finance"
 tags:
   - "Options"
-  - "Natural Language Processing"
-  - "Machine Learning"
-  - "scikit-learn"
+  - "Finance"
+  - "Personal"
+  - "Trading"
 description: "An eye-opening experience with Options trading on Robinhood"
 ---
 
@@ -31,15 +31,14 @@ This would be a lot if I had a bigger account, but as I'm starting off with a sm
 But before we get into any of the trades that occurred and some of the things I have learned, here are a few key important attitudes that I have developed through experience:
 
 *   As a trader, you are only right for so long. In other words, **when a reasonable return is presented, take it**. Factoring in theta/time decay and consolidations in stock pricing, it is important to not be too greedy.
-*   Be patient. Taking in small profits and not willing to cut losses ultimately leads to a net loss over time. **Riding the bull is very profitable, but be ready to cash in when consolidation starts**. What comes up must come down!
-*   Naked calls and puts are okay, but **for lower-risk plays with decent returns, strategies such as straddles, strangles, spreads, and iron condors are much better for overall account growth over time.**
+*   Naked calls and puts are okay, but for lower-risk plays with decent returns, strategies such as **straddles, strangles, spreads, and iron condors are much better for overall account growth over time.**
 *   Probability is the name of the game. **Think of how likely a stock will continue an upward trend and when it will need to go through consolidation**. Reading up on news and observing moving average candlesticks are effective here.
 
-I'll go over these four points based on some anecdotes and how I lost the potential for a lot of money while also losing some money. 
+I'll go over these three points based on some anecdotes and how I lost the potential for a lot of money while also losing some money. 
 
 At the same time, I will also go over what made trading this month successful. At the end of the day, however, locking in consistent profits in green is of most importance.
 
-### Taking reasonable returns
+## Taking reasonable returns
 
 Before talking about when to draw the line when it comes to taking returns and how to make an accurate prediction of when the stock will rebound or consolidate, I'd like to first talk about behavioral finance and a probable reason why it kills off the profits of so many traders.
 
@@ -56,7 +55,7 @@ This is a psychological phenomenon that can be observed not only on a yearly bas
 
 Pullbacks sucks for the investor, but as a trader, being able to capitalize on volatility is the most important skill to have. Now, let's dive into a few reasons why taking in reasonable returns are very important.
 
-#### Theta decay A.K.A time decay
+#### 1. Theta decay A.K.A time decay
 
 ![Scary stuff...](https://theoptionprophet.com/images/Theta_Picture1.jpg)
 
@@ -66,7 +65,12 @@ What does this mean then? If you are trading weekly options, there's going to be
 
 If I had a bigger account, I would definitely buy contracts which have longer time frames for execution.
 
-#### What if there is high volatility?
+#### 2. Good luck being able to time a continuing uptrend correctly...
+The market is unpredictable all the time. Chances are if a stock grew 10-15% over the few days, price correction is going to happen. So what should you probably do?
+
+Take the profits (10-15% has huge implications for the price of a contract) and be ready for the trend reversal based on your outlook (bullish or bearish). When the time comes for 
+
+#### 3. What if there is high volatility?
 A little bit off topic from talking about taking in reasonable returns, but going back on what I said about expiration dates, I would also like to note an exception.
 
 >So, why wouldn't theta decay destroy the price of my contract? This is because of IV in certain cases, more specifically earnings.
@@ -83,109 +87,32 @@ If I'm feeling confident about the sentiment behind a stock prior to earnings, I
 
 >Now don't hold them during earnings, because something called a [IV Crush](https://www.markettamer.com/blog/beware-of-implied-volatility-crush) will happen.
 
-And lastly, it is perfectly fine to ride the wave. Just remember that waves come crashing down all the time.
+And on a final note with regards to **taking reasonable returns**, it is perfectly fine to ride the wave. Just remember that waves must crash down at some point, rather that be intra-day, intra-month, or intra-year. Always be ready.
 
-![That's gotta hurt...](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi-1pTx377gAhVRGt8KHfsPBwcQjRx6BAgBEAU&url=http%3A%2F%2Ftheemotionallyintelligentinvestor.com%2F%3Fp%3D145&psig=AOvVaw0daYeIBdPkT7ZhxG4Ax9J7&ust=1550354806230036)
+![That's gotta hurt...](https://cdn.vox-cdn.com/thumbor/HR7p_v-YmCuLNnRIc4TqrqvPV6o=/0x0:1599x1106/1200x0/filters:focal(0x0:1599x1106):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/4002314/china-graphics_aug26.0.jpg)
 
-![At least profanity-filter is not dead last this time](https://cdn-images-1.medium.com/max/1600/1*LYOeGE6vTXTAKhJ_W1fZgQ.png)
+## Strategies for trading options
+Now I'm not going to get too into depth on trading strategies, since I'm not too familiar with the concept myself, but one thing to note is that due to my account size, I rarely trade iron condors, butterflies, and spreads which often require a lot of starting capital (at least in Robinhood) since selling puts and calls requires initial capital. 
 
-None of the libraries I’d found on PyPI met my needs, so I built my own.
+So, I trade long strangles and straddles for the most part. Once I manage to obtain more money, I plan to sell calls on stocks I seek to enter a position in (ideally MSFT, AAPL, FB, and more?) Anything with high EV.
 
-### Building profanity-check, Part 1: Data
+However, what I can say is that volatility is a dream for people who trade strangles. Picking the stocks with a lot of volatility, combined with the ability to liquidate contracts when needed is often a ripe recipe for consistent profits. Post-earning strangles have been amazing at providing sharp returns, at least for this month.
 
-I knew that I wanted `profanity-check` to base its classifications on data to avoid being subjective _(read: to be able to say I used Machine Learning)_. I put together a combined dataset from two publicly-available sources:
+>Also, February is generally the most volatile month for trading.
 
-*   the “Twitter” dataset from [t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data), which contains tweets scraped from Twitter.
-*   the “Wikipedia” dataset from [this Kaggle competition](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) published by Alphabet’s [Conversation AI](https://conversationai.github.io/) team, which contains comments from Wikipedia’s talk page edits.
+## Directional and trend probability
+Always think about the probability of a stock gapping down and gapping up. [Patterns](https://optionalpha.com/13-stock-chart-patterns-that-you-cant-afford-to-forget-10585.html) also happen quite often intraday and intraweek. There are various patterns that can help you make a higher probability decision when it comes to deciding on whether or not to close or open a position.
 
-Each of these datasets contains text samples hand-labeled by humans through crowdsourcing sites like [Figure Eight](https://www.figure-eight.com/).
+When a stock gaps down for no particular reason, you can often assume with over 55% probability that it will gap up over the next amount of days and week, and it will ultimately gap down again. Making sure to close positions is essential for the health of an account. 
 
-Here’s what my dataset ended up looking like:
+Being able to think about patterns (descending triangles happen the most for the stocks I watch), and thinking about probabilities have often lead me to make profitable decisions.
 
-![Combined = Tweets + Wikipedia](https://cdn-images-1.medium.com/max/1600/1*Bw_we8cbs-WOpWXOCxzSTg.png)
+## And...
+that about wraps it up! These three important lessons I have learned over the course of trading options has ultimately made me a better, disciplined trader. Of course, there is still much to learn but I'm quite optimistic about learning more about trading. 
 
-> The Twitter dataset has a column named `class` that’s 0 if the tweet contains hate speech, 1 if it contains offensive language, and 2 if it contains neither. I classified any tweet with a `class` of 2 as “Not Offensive” and all other tweets as “Offensive.”
+Don't forget, if you have not yet opened an account with Robinhood, feel free to use my [referral link](https://share.robinhood.com/davidg3685) here! We both get a stock (which means either a free PS4 if we're lucky, or at the very least free milk tea!)
 
-> The Wikipedia dataset has several binary columns (e.g. `toxic` or `threat`) that represent whether or not that text contains that type of toxicity. I classified any text that contained _any_ of the types of toxicity as “Offensive” and all other texts as “Not Offensive.”
 
-### Building profanity-check, Part 2: Training
 
-Now armed with a cleaned, combined dataset (which you can [download here](https://github.com/vzhou842/profanity-check/blob/master/profanity_check/data/clean_data.csv)), I was ready to train the model!
 
-> I’m skipping over how I cleaned the dataset because, honestly, it’s pretty boring— if you’re interested in learning more about preprocessing text datasets check out [this article](https://machinelearningmastery.com/clean-text-machine-learning-python/) or [this post](https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908).
-
-```python
-import pandas as pd
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.calibration import CalibratedClassifierCV
-from sklearn.svm import LinearSVC
-from sklearn.externals import joblib
-
-# Read in data
-data = pd.read_csv('clean_data.csv')
-texts = data['text'].astype(str)
-y = data['is_offensive']
-
-# Vectorize the text
-vectorizer = CountVectorizer(stop_words='english', min_df=0.0001)
-X = vectorizer.fit_transform(texts)
-
-# Train the model
-model = LinearSVC(class_weight="balanced", dual=False, tol=1e-2, max_iter=1e5)
-cclf = CalibratedClassifierCV(base_estimator=model)
-cclf.fit(X, y)
-
-# Save the model
-joblib.dump(vectorizer, 'vectorizer.joblib')
-joblib.dump(cclf, 'model.joblib')
-```
-<figcaption>
-  Are you also surprised the code is so short?
-  Apparently <a href="https://scikit-learn.org/" target="_blank">scikit-learn</a> does everything.
-</figcaption>
-
-Two major steps are happening here: (1) vectorization and (2) training.
-
-#### Vectorization: Bag of Words
-
-I used `scikit-learn`'s [CountVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html) class, which basically turns any text string into a vector by counting how many times each given word appears. This is known as a [Bag of Words](https://en.wikipedia.org/wiki/Bag-of-words_model) (BOW) representation. For example, if the only words in the English language were `the`, `cat`, `sat`, and `hat`, a possible vectorization of the sentence `the cat sat in the hat` might be:
-
-![“the cat sat in the hat” -> [2, 1, 1, 1, 1]](https://cdn-images-1.medium.com/max/1600/1*sbnts1u_QFB_V-X5DSC3pg.png)
-
-The `???` represents any unknown word, which for this sentence is `in`. Any sentence can be represented in this way as counts of `the`, `cat`, `sat`, `hat`, and `???`!
-
-![A handy reference table for the next time you need to vectorize “cat cat cat cat cat”](https://cdn-images-1.medium.com/max/1600/1*-wONWZDab2gNQP3Rfdpt_A.png)
-
-Of course, there are far more words in the English language, so in the code above I use the `fit_transform()` method, which does 2 things:
-
-*   **Fit:** learns a vocabulary by looking at all words that appear in the dataset.
-*   **Transform**: turns each text string in the dataset into its vector form.
-
-#### Training: Linear SVM
-
-The model I decided to use was a Linear Support Vector Machine (SVM), which is implemented by `scikit-learn`'s [LinearSVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html) class. [This post](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72) and [this tutorial](https://www.svm-tutorial.com/2014/11/svm-understanding-math-part-1/) are good introductions if you don’t know what SVMs are.
-
-> The [CalibratedClassifierCV](https://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html) in the code above exists as a wrapper to give me the `predict_proba()` method, which returns a probability for each class instead of just a classification. You can pretty much just ignore it if that last sentence made no sense to you, though.
-
-Here’s one (simplified) way you could think about why the Linear SVM works: during the training process, the model learns which words are “bad” and how “bad” they are because those words appear more often in offensive texts. **It’s as if the training process is picking out the “bad” words for me**, which is much better than using a wordlist I write myself!
-
-A Linear SVM combines the best aspects of the other profanity detection libraries I found: it’s fast enough to run in real-time yet robust enough to handle many different kinds of profanity.
-
-### Caveats
-
-That being said, `profanity-check` is far from perfect. Let me be clear: take predictions from `profanity-check` with a grain of salt because **it makes mistakes.** For example, its not good at picking up less common variants of profanities like “f4ck you” or “you b1tch” because they don’t appear often enough in the training data. You’ll never be able to detect _all_ profanity (people will come up with new ways to evade filters), but `profanity-check` does a good job at finding most.
-
-### profanity-check
-
-`profanity-check` is open source and available on PyPI! To use it, simply
-
-```
-$ pip install profanity-check
-```
-
-How could `profanity-check` be even better? Feel free to reach out or comment with any thoughts or suggestions!
-
-* * *
-
-_This article was originally posted on [Medium](https://medium.com/@victorczhou/building-a-better-profanity-detection-library-with-scikit-learn-3638b2f2c4c2)._
 
