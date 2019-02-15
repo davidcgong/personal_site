@@ -11,7 +11,7 @@ tags:
   - "Finance"
   - "Personal"
   - "Trading"
-description: "An eye-opening experience with Options trading on Robinhood"
+description: "An eye-opening experience with Options trading on Robinhood."
 ---
 
 >Robinhood is an investing and trading application that does not require to pay any commissions. If you are new to Robinhood and would like to give it a try, click on my [referral link](https://share.robinhood.com/davidg3685) here! You and I will both get a share of a stock.
@@ -68,7 +68,7 @@ If I had a bigger account, I would definitely buy contracts which have longer ti
 #### 2. Good luck being able to time a continuing uptrend correctly...
 The market is unpredictable all the time. Chances are if a stock grew 10-15% over the few days, price correction is going to happen. So what should you probably do?
 
-Take the profits (10-15% has huge implications for the price of a contract) and be ready for the trend reversal based on your outlook (bullish or bearish). When the time comes for 
+Take the profits (10-15% has huge implications for the price of a contract) and be ready for the trend reversal based on your outlook (bullish or bearish).
 
 #### 3. What if there is high volatility?
 A little bit off topic from talking about taking in reasonable returns, but going back on what I said about expiration dates, I would also like to note an exception.
@@ -77,7 +77,7 @@ A little bit off topic from talking about taking in reasonable returns, but goin
 
 At least 30% of the gains I have made off this month have been from pre-earning plays, where I capitalize on the high IV (implied volatility) prior to the earnings announcement and then sell right beforehand. A lot of times for these options, I buy them on the same week as earnings. To understand why theta decay does not severely impact the price of an option contract during earnings week, take a look at the following Black-Scholes model used for pricing contracts.
 
-![Black-Scholes Model. Note that volatility is valued more than time in this formula.](http://www.theoptionsguide.com/images/black-scholes.gif)
+![Black-Scholes Model. Note that volatility is valued more than time in this formula.](https://i.investopedia.com/blackscholes.png)
 
 As can be observed from the formula, contracts will have extremely high premiums during times of volatility. This volatility, combined with the knowledge of general sentiment towards a stock prior to earnings, provides great opportunity for profitable plays. 
 
