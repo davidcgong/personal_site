@@ -4,7 +4,7 @@ date: "2019-01-27T12:00:00.000Z"
 template: "post"
 draft: false
 slug: "/blog/real-estate-prices-regression-with-scikit-learn"
-img: "/media/xkcd-290.png"
+img: "https://www.visualcapitalist.com/wp-content/uploads/2018/12/us-real-estate-prices.jpg"
 category: "Data Science"
 tags:
   - "Python"

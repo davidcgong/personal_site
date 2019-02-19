@@ -4,7 +4,7 @@ date: "2019-02-11T12:00:00.000Z"
 template: "post"
 draft: false
 slug: "/blog/trading-options-on-robinhood-part-1"
-img: "/media/xkcd-290.png"
+img: "https://d1qb2nb5cznatu.cloudfront.net/startups/i/227792-c28dd8f90d35010d984fdb5c0756034e-medium_jpg.jpg?buster=1543696028"
 category: "Finance"
 tags:
   - "Options"
