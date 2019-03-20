@@ -1,6 +1,6 @@
-## [David's blog](https://davidcgong.com)
+## David's blog
 
-davidcgong.com
+https://davidcgong.com
 
 Based on [Calpa Liu's starterpack](https://calpa.me/) in Gatsby.js.
 
