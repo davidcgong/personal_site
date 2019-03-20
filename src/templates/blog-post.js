@@ -68,7 +68,7 @@ class BlogPost extends Component {
     return (
       <div className="row post order-2">
         <Header
-          img={headerImage || 'https://cdn.pixabay.com/photo/2014/05/02/21/49/home-office-336373_1280.jpg'}
+          img={headerImage || 'https://cdn.pixabay.com/photo/2017/12/16/22/22/bora-bora-3023437_1280.jpg'}
           title={title}
           authorName={name}
           authorImage={iconUrl}
@@ -85,7 +85,7 @@ class BlogPost extends Component {
               title=" connect with me on LinkedIn"
             />
             {' '}
-or
+            or
             <ExternalLink
               href="https://github.com/davidcgong/"
               title=" check out my Github"
