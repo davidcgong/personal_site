@@ -1,4 +1,6 @@
-## David's blog
+## David's blog 
+
+[![Build Status](https://api.travis-ci.org/calpa/gatsby-starter-calpa-blog.svg?branch=master)](https://github.com/davidcgong/personal_site/blob/master/.travis.yml)
 
 https://davidcgong.com
 
