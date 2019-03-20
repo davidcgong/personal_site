@@ -1,0 +1,93 @@
+{
+  "url": "https://davidcgong.com",
+  "meta": {
+    "favicon": "https://scontent-atl3-1.cdninstagram.com/vp/746ac7850dcad04b345fe4c13b612a6a/5D0C6D9D/t51.2885-19/s320x320/53435615_443981536142083_7429769272861130752_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com",
+    "keyword": "david, gong, blog, data science, georgia tech, playstation, software engineering, trading, finance, investing, economics, gatsby",
+    "description": "Hi, I'm David. I enjoy blogging about things related to software development, data science, trading, and finance.",
+    "theme_color": "#384f7c",
+    "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
+  },
+  "name": "David",
+  "about": "/about",
+  "email": "davidcgong@gatech.edu",
+  "stats": {
+    "image": "https://i.imgur.com/VjBWiSt.png",
+    "title": "過去三十日數據",
+    "description": "過去三十日數據"
+  },
+  "title": "davidcgong.com",
+  "gitalk": {
+    "repo": "gatsby-blog",
+    "admin": [
+      "davidcgong"
+    ],
+    "owner": "davidcgong",
+    "clientID": "4fc8517de30f480d7f43",
+    "clientSecret": "d18a52ee8e50bde8addb18636845049ea1207161",
+    "pagerDirection": "first",
+    "distractionFreeMode": true
+  },
+  "License": "by",
+  "friends": [
+    {
+      "href": "https://www.boatsky.com/",
+      "title": "太空船博客"
+    },
+    {
+      "href": "http://blog.shanamaid.top/",
+      "title": "娜酱骑士团"
+    },
+    {
+      "href": "https://clarencec.github.io/",
+      "title": "Clarence Blog"
+    },
+    {
+      "href": "http://f2ex.cn/",
+      "title": "F2EX"
+    },
+    {
+      "href": "https://jeffjade.com/",
+      "title": "晚晴幽草轩"
+    },
+    {
+      "href": "https://macplay.github.io/",
+      "title": "MacPlay"
+    }
+  ],
+  "iconUrl": "https://storage.googleapis.com/kaggle-avatars/images/2154939-kg.png",
+  "wordings": [
+    "Data Scientist / SWE",
+    "Options Trading Novice"
+  ],
+  "gaTrackId": "UA-124026237-1",
+  "navbarList": [
+    {
+      "href": "/about",
+      "title": "About"
+    },
+    {
+      "href": "/guestbook/",
+      "title": "Comments"
+    },
+    {
+      "href": "/tags/",
+      "title": "Tags"
+    }
+  ],
+  "redirectors": [
+    {
+      "toPath": "/about/",
+      "fromPath": "/about/"
+    }
+  ],
+  "gaOptimizeId": "GTM-WHP7SC5",
+  "carouselItems": [
+    {
+      "src": "https://i.imgur.com/gw91CuI.jpg",
+      "target": "/stats/"
+    }
+  ],
+  "linkedinUsername": "davidcgong",
+  "githubUsername": "davidcgong",
+  "maxPostsInPage": 10
+}
