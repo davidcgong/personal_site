@@ -17,7 +17,7 @@
   },
   "title": "davidcgong.com",
   "gitalk": {
-    "repo": "gatsby-blog",
+    "repo": "personal_site",
     "admin": [
       "davidcgong"
     ],
