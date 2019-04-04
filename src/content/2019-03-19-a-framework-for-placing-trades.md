@@ -1,12 +1,11 @@
 ---
 slug: framework-placing-trades
-title: My Decision-Making Framework for Manual Trading
+title: My Basic Framework for Placing Trades
 date: 2019-03-19T02:38:23.251Z
-description: Metrics, patterns, and trends I look for before placing a trade.
+description: The key technical indicators I use before deciding to place a trade.
 tags:
   - Trading
   - Options
-headerImage: 'https://i2.wp.com/optimusfutures.com/tradeblog/wp-content/uploads/2018/01/Fibinacci-Retracements-2-technical-indicators-for-futures-trading.png'
 templateKey: blog-post
 ---
 
@@ -14,15 +13,13 @@ templateKey: blog-post
 
 ## Introduction
 
-Let's face it, algorithmic trading is ultimately what will rule the market (or rules). The top experts in mathematics, statistics, and algorithm design all gather around to create algorithms that are experts at manipulating market prices and conducting arbitrage.
+I present here some of the things I think about before entering and exiting a trade, and the general mindset I adhere to before deciding to take full responsibility for the potential risk-reward and opportunity flow, as well as being able to figure out where to put my bucket before it rains. 
 
-However, I do want to talk about the decision-making process I go through when I place trades so that I can receive some constructive criticism and hopefully 10 years down the line, I see that my thinking was elementary and naive. 
+Please note that no amount of technical analysis can save you from yourself. Technical analysis merely provides you with an edge; it is up to you to act and accept the rewards and consequences of your trading and to not be emotionally flabbergasted.
 
 ## Decision-making processes
 
->These ideas mostly apply to mid-large cap traded stocks. No penny stocks here! If you're interested in trading penny stocks or doing day trading, VWAP tends to be a good indicator.
-
-_Edit: I totally forgot to talk about EMA (Exponential Moving Averages), but check them out on Investopedia as well! There are many patterns that can be identified with EMA in addition to figuring out when a stock is overextended in one direction. <- **This is actually pretty important!**_
+>These ideas mostly apply to mid-large cap traded stocks. No penny stocks here! If you're interested in trading penny stocks or doing day trading, VWAP tends to be a good indicator. I also did not talk about EMA here, but you should definitely study this indicator with regards to trend reversals across any time period.
 
 Here are a few metrics I look for before making a decisive decision (long or short):
 
@@ -148,11 +145,9 @@ When Johnson & Johnson (JNJ) talked about the baby powder scandal in December 20
 Slowly but surely, we now see it return from $123 to $138. Why? Simply because this baby powder scandal did not pose a long-term threat to JNJ. This baby powder scandal was just one product out of thousands if not tens of thousands of JNJ products. 
 
 ##### Boeing Case
-Boeing is a more recent case. 
+Boeing is a more recent and much, much more tragic case, where hundreds of people have lost their lives due to a software bug in the angle of attack system. Still, even with this tragic event we can still see the resilience of Boeing as a company that might even get more investors to invest in the company in the long-run. The reasoning being that if even a tragic case such as this was not enough to send a large amount of investors from selling off the stock, the company is __almost__ certainly clear for the skies in the long-run.
 
->Emotionally, this is a tough one for me largely because it involves human lives. I simply wish the families to live the best life they can without their loved ones, and that this tragedy will pave the way for higher regulation for aircraft software and federal approval. 
-
-But, think of it from an investor's perspective. An investor understands that Boeing holds an extremely large market share and means of production when it comes to aircraft. Nearly all major airlines operate Boeing aircraft, and not exclusively to the Boeing 737 Max Series.
+An investor understands that Boeing holds an extremely large market share and means of production when it comes to aircraft. Nearly all major airlines operate Boeing aircraft, and not exclusively to the Boeing 737 Max Series.
 
 As of current news, a lot of bad news have been consistently pricing in, ultimately leading to the grounding of all Boeing 737 Max aircraft until a definite resolution has been made. This will definitely cut into Boeing's earnings and revenue as the company will have to pay large penalties and deal with PR issues.
 
@@ -161,6 +156,9 @@ Even so, Boeing still holds consistently at $370, and I remember explicitly that
 Boeing in the long-term, let's say 5-10 years from now will be slightly dented from this incident. So what does an investor think? An investor will think, "This is the time to buy Boeing at a discount!"
 
 As a trader, specifically an options trader, this has some large implications with regards to volatility. Risk and reward, establishment of support and resistance lines, learning to scalp might make one trade profitably in this scenario.
+
+##### Tesla Case
+Elon Musk likes to talk smack and knock the price down, and Tesla's metrics has not been so stellar either, leading to an astounding loss in the stock's value over the last few months. Yet, TSLA shows time and time again that so many investors love to buy the stock as much as short-sellers love to short the stock even in the face of bad news. What does this mean? Eventually, I believe the longs will win out over the shorts unless more bad news happens. Improbable, but certainly possible. 
 
 
 ## Progress update
@@ -175,9 +173,9 @@ Last week I was actually originally up $4,200 at one point this month. The follo
 
  Had I not been so overly optimistic and confident, and trusted in rational decision-making, I would probably have been saying I grew $1,400 to $6,000 instead. My father assured me that this was normal. Ray Dalio, the founder of Bridgewater, went through worse tribulations than I did before building the US's largest hedge fund. You live and you learn!
 
-I bought WB at the peak out of too much optimism and drinking too much kool-aid following an earnings dip, betted on TSLA breaking through support and heavily shorted it, and then became impatient with losing trades after. A recipe for disaster.
+I bought WB at the peak out of too much optimism from my previous winning trades, betted on TSLA breaking through support and heavily shorted it, and then became impatient with losing trades after. A recipe for disaster.
 
-Did recover though, and I will keep this experience in mind in the future. Definitely will prove to be valuable when I have money in my account.
+I may have managed to recover, but I will keep this experience in mind in the future. Definitely will prove to be valuable when I have more money in my account.
 
 **Didn't do as well as I had hoped, but this was because I made as many good decisions as I made bad decisions. At the end of the day, it could have been worse. The rest really boiled down to luck and I really want myself to be wary of this.**
 
@@ -192,11 +190,7 @@ _Giving yourself breathing room for your theory to play out even though things m
 
 ## Closing remarks
 
-These are the five things I think about before playing a stock. I never play more than 5 stocks at once, it typically takes too much time just to figure out various statistics, technical indicators, news, and market sentiment. But, please let me know if you have any other things that should be added! I will add accordingly to this post or future posts with your name added as credit.
-
-Good luck in the markets,
-
-David
+These are the five technical indicators and sentiment analysis I think about before entering a trade. I believe that learning about the markets and making decisions in this manner will give me an edge, but the mindset is ultimately what will be the determining factor. I'm currently delving into trading psychology audiobooks on Audible and will be releasing a reading list of the trading books I plan to read for 2019. Stay tuned!
 
 
 
