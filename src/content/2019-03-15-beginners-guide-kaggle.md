@@ -73,6 +73,4 @@ Overall, however, I would recommend just sticking with the kernel and learning a
 
 ## Closing thoughts
 
-To be honest, the only thing you need to know from this blog post is this:
-
-**XGBoost, LightGBM, and feature engineering are meta.** 
+These are once again very basic ideas that one should know before going into a competition, but I believe that developing good fundamentals over time is much more important. Read books, look through notebooks of past winners, adopt their methods, and then you might just get that Kaggle gold medal one day. :)

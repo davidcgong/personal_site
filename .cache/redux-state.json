@@ -1,0 +1,2994 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "C:/Users/David Gong/new-site/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "C:/Users/David Gong/new-site/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0780d59d8985d78c625a7758ba87478f",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "45668a30e3f345b6b59bac712680abfc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "25bc0ee779a09a7f32f1dd51ce89c4a3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "6af0042799c9c4db8fce6de76e6b3c21",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "7a8bed457d9bc920213411bbd0d1c77e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "86154bd2adf2fa1d2af24934e9f6b9a4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "651df379b77c992856cd80541e670b19",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e1e8cadb27a7f19a50259c58ca270676",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d8f4bf2b-73c7-5c69-93d1-79ac2ac7c2e8": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-sass",
+      "id": "d8f4bf2b-73c7-5c69-93d1-79ac2ac7c2e8",
+      "name": "gatsby-plugin-sass",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^7.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.9.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "48b9863bbfa58b043ee3c11b8b78d650",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ca2c6d45-3cbb-5520-81b0-744c9701d15c": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-catch-links",
+      "id": "ca2c6d45-3cbb-5520-81b0-744c9701d15c",
+      "name": "gatsby-plugin-catch-links",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-catch-links",
+      "packageJson": {
+        "name": "gatsby-plugin-catch-links",
+        "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "escape-string-regexp",
+            "version": "^1.0.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "f40ec8ce1205d104029f392d3797b70e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "98a57d16-8614-5262-96f7-8632078974e1": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-webpack-bundle-analyzer",
+      "id": "98a57d16-8614-5262-96f7-8632078974e1",
+      "name": "gatsby-plugin-webpack-bundle-analyzer",
+      "version": "1.0.4",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-webpack-bundle-analyzer",
+      "packageJson": {
+        "name": "gatsby-plugin-webpack-bundle-analyzer",
+        "description": "A Gatsby plugin to help analyze your bundle content.",
+        "version": "1.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "webpack",
+          "bundle",
+          "analyzer",
+          "webpack-bundle-analyzer"
+        ],
+        "author": {
+          "name": "Kennedy Rose",
+          "email": "kennedy@escaladesports.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "webpack-bundle-analyzer",
+            "version": "^2.13.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0-rc.1"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0-rc.1"
+          },
+          {
+            "name": "@babel/preset-env",
+            "version": "^7.0.0-rc.1"
+          },
+          {
+            "name": "opn-cli",
+            "version": "^3.1.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "c6dee9f0466851eea05f4670af5e1810",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "558c06e7-dc2e-5b1d-9698-20e6249e42a5": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-source-filesystem",
+      "id": "558c06e7-dc2e-5b1d-9698-20e6249e42a5",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.21",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:\\Users\\David Gong\\new-site/src/content",
+        "name": "pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.21",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3caece689b9553121e1b47fc86ee5d13",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f2344f2c-84b1-5a8f-9c76-811ae88b074c": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-transformer-remark",
+      "id": "f2344f2c-84b1-5a8f-9c76-811ae88b074c",
+      "name": "gatsby-transformer-remark",
+      "version": "2.2.6",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-remark-autolink-headers",
+            "id": "df380aaa-460e-51a2-8830-e6712dc1f436",
+            "name": "gatsby-remark-autolink-headers",
+            "version": "2.0.14",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [
+              "onInitialClientRender",
+              "shouldUpdateScroll"
+            ],
+            "ssrAPIs": [
+              "onRenderBody"
+            ],
+            "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-remark-autolink-headers"
+          },
+          {
+            "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-remark-prismjs",
+            "id": "58a108b4-3219-5da7-a784-9ee908c63922",
+            "name": "gatsby-remark-prismjs",
+            "version": "3.2.4",
+            "pluginOptions": {
+              "plugins": [],
+              "showLineNumbers": true
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-remark-external-links",
+            "id": "60561c32-f0a6-53ca-afa5-60f3e432c7d4",
+            "name": "gatsby-remark-external-links",
+            "version": "0.0.4",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-remark-external-links"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.2.6",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-to-string",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.5"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.88"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8533274d0a455c6ec6135d97cdf103e2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "df380aaa-460e-51a2-8830-e6712dc1f436": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-remark-autolink-headers",
+      "id": "df380aaa-460e-51a2-8830-e6712dc1f436",
+      "name": "gatsby-remark-autolink-headers",
+      "version": "2.0.14",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onInitialClientRender",
+        "shouldUpdateScroll"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-remark-autolink-headers",
+      "packageJson": {
+        "name": "gatsby-remark-autolink-headers",
+        "description": "Gatsby plugin to autolink headers in markdown processed by Remark",
+        "version": "2.0.14",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "github-slugger",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "mdast-util-to-string",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e0a83bd029832ddbdf22de391dbdf2c7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "58a108b4-3219-5da7-a784-9ee908c63922": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-remark-prismjs",
+      "id": "58a108b4-3219-5da7-a784-9ee908c63922",
+      "name": "gatsby-remark-prismjs",
+      "version": "3.2.4",
+      "pluginOptions": {
+        "plugins": [],
+        "showLineNumbers": true
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "3.2.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "^0.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "72606fb76fe5a23c9d97c0fb489776b8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "60561c32-f0a6-53ca-afa5-60f3e432c7d4": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-remark-external-links",
+      "id": "60561c32-f0a6-53ca-afa5-60f3e432c7d4",
+      "name": "gatsby-remark-external-links",
+      "version": "0.0.4",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-remark-external-links",
+      "packageJson": {
+        "name": "gatsby-remark-external-links",
+        "description": "Automatically adds the target and rel attributes to external links in markdown.",
+        "version": "0.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": {
+          "name": "Jimmy Longley",
+          "email": "jimmylongley@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          },
+          {
+            "name": "dedent",
+            "version": "^0.7.0"
+          },
+          {
+            "name": "jest",
+            "version": "^21.2.1"
+          },
+          {
+            "name": "remark",
+            "version": "^8.0.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "175629e9fb7bacfc82bebbe08e076267",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ba2f1534-3cb0-5235-b0b0-3f861a382134": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-layout",
+      "id": "ba2f1534-3cb0-5235-b0b0-3f861a382134",
+      "name": "gatsby-plugin-layout",
+      "version": "1.0.12",
+      "pluginOptions": {
+        "plugins": [],
+        "component": "C:\\Users\\David Gong\\new-site\\src\\components\\Layout\\layout.js"
+      },
+      "nodeAPIs": [
+        "onPreInit",
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [
+        "wrapPageElement"
+      ],
+      "ssrAPIs": [
+        "wrapPageElement"
+      ],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-layout",
+      "packageJson": {
+        "name": "gatsby-plugin-layout",
+        "description": "Reimplements the behavior of layout components in gatsby@1, which was removed in version 2.",
+        "version": "1.0.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3c15e4090be8d345fccab7c2f800a982",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7ed4ef2d-51f4-5ab3-8a20-87d86e28008d": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-sitemap",
+      "id": "7ed4ef2d-51f4-5ab3-8a20-87d86e28008d",
+      "name": "gatsby-plugin-sitemap",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-sitemap",
+      "packageJson": {
+        "name": "gatsby-plugin-sitemap",
+        "description": "Gatsby plugin that automatically creates a sitemap for your site",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "minimatch",
+            "version": "^3.0.4"
+          },
+          {
+            "name": "pify",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sitemap",
+            "version": "^1.12.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ef576013831b810bc195034c195197cc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "e55a7340-f3f2-5db4-b877-f08b6f5dd766": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-sentry",
+      "id": "e55a7340-f3f2-5db4-b877-f08b6f5dd766",
+      "name": "gatsby-plugin-sentry",
+      "version": "1.0.1",
+      "pluginOptions": {
+        "plugins": [],
+        "dsn": "https://fe988b5e96fc4634babe220e23464e15@sentry.io/1274827"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-sentry",
+      "packageJson": {
+        "name": "gatsby-plugin-sentry",
+        "description": "Gatsby plugin to add Sentry error tracking to your site.",
+        "version": "1.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sentry"
+        ],
+        "author": {
+          "name": "Jason Stallings",
+          "email": "jason.stallin.gs"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@sentry/browser",
+            "version": "latest"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "036ed9785b7534be8a8d365e8a4c0f68",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "b6230923-e18f-5876-bde0-b874e6742ad7": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-nprogress",
+      "id": "b6230923-e18f-5876-bde0-b874e6742ad7",
+      "name": "gatsby-plugin-nprogress",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry",
+        "onRouteUpdateDelayed",
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-nprogress",
+      "packageJson": {
+        "name": "gatsby-plugin-nprogress",
+        "description": "Shows page loading indicator when loading page resources is delayed",
+        "version": "2.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "nprogress",
+            "version": "^0.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "c0cbe0f0c222f03476ff8bf7d0e6e6f5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "3d28cf7a-befd-5da1-b009-b21abdca19a1": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-manifest",
+      "id": "3d28cf7a-befd-5da1-b009-b21abdca19a1",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.18",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "David's Blog",
+        "short_name": "David",
+        "start_url": "/",
+        "background_color": "#ededed",
+        "theme_color": "#384f7c",
+        "display": "standalone",
+        "icons": [
+          {
+            "src": "/favicons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          },
+          {
+            "src": "/favicons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.18",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "def4efde0a6783b4ee0d1f8f9f4c482e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-offline",
+      "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "name": "gatsby-plugin-offline",
+      "version": "2.0.24",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker",
+        "onServiceWorkerActive",
+        "onPostPrefetchPathname"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "2.0.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "idb-keyval",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "workbox-build",
+            "version": "^3.6.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cpx",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.100"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d63ac3df50457a50b3cdb615e206a526",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "54e3ea36-236a-5532-9628-10debfd8525c": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-netlify",
+      "id": "54e3ea36-236a-5532-9628-10debfd8525c",
+      "name": "gatsby-plugin-netlify",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig",
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-netlify",
+      "packageJson": {
+        "name": "gatsby-plugin-netlify",
+        "description": "A Gatsby plugin which generates a _headers file for netlify",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "http/2-server-push",
+          "netlify"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "kebab-hash",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "webpack-assets-manifest",
+            "version": "^3.0.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "eb9501cd75d0f5e05e2f336039a21e55",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "C:/Users/David Gong/new-site",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "930d2c07e3f3aefaacd2129b4d2f9f13",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "createPages",
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [
+        "onRouteUpdate",
+        "shouldUpdateScroll"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site",
+      "packageJson": {
+        "name": "blog",
+        "description": "David's Blog",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "David Gong <davidcgong@gatech.edu>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@fortawesome/fontawesome-svg-core",
+            "version": "^1.2.4"
+          },
+          {
+            "name": "@fortawesome/free-brands-svg-icons",
+            "version": "^5.3.1"
+          },
+          {
+            "name": "@fortawesome/free-regular-svg-icons",
+            "version": "^5.3.1"
+          },
+          {
+            "name": "@fortawesome/free-solid-svg-icons",
+            "version": "^5.3.1"
+          },
+          {
+            "name": "@fortawesome/react-fontawesome",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "axios",
+            "version": "^0.18.0"
+          },
+          {
+            "name": "babel-loader",
+            "version": "^8.0.2"
+          },
+          {
+            "name": "babel-plugin-transform-decorators-legacy",
+            "version": "^1.3.5"
+          },
+          {
+            "name": "babel-plugin-transform-regenerator",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "dayjs",
+            "version": "^1.7.5"
+          },
+          {
+            "name": "dotenv",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "eslint-plugin-jsx-a11y",
+            "version": "^6.1.1"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.76"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^2.0.7"
+          },
+          {
+            "name": "gatsby-plugin-catch-links",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-plugin-feed",
+            "version": "^2.0.11"
+          },
+          {
+            "name": "gatsby-plugin-layout",
+            "version": "^1.0.11"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.12"
+          },
+          {
+            "name": "gatsby-plugin-netlify",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-plugin-nprogress",
+            "version": "^2.0.7"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.20"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.5"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^2.0.7"
+          },
+          {
+            "name": "gatsby-plugin-sentry",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "^2.0.3"
+          },
+          {
+            "name": "gatsby-plugin-webpack-bundle-analyzer",
+            "version": "^1.0.3"
+          },
+          {
+            "name": "gatsby-remark-autolink-headers",
+            "version": "^2.0.14"
+          },
+          {
+            "name": "gatsby-remark-external-links",
+            "version": "0.0.4"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^3.2.4"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.12"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.2.5"
+          },
+          {
+            "name": "gitalk",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "han-css",
+            "version": "^3.3.0"
+          },
+          {
+            "name": "highlight.js",
+            "version": "^9.12.0"
+          },
+          {
+            "name": "lozad",
+            "version": "^1.6.0"
+          },
+          {
+            "name": "md5",
+            "version": "^2.2.1"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.9.3"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "react",
+            "version": "^16.6.3"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.6.3"
+          },
+          {
+            "name": "react-ga",
+            "version": "^2.5.3"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-transition-group",
+            "version": "^2.5.2"
+          },
+          {
+            "name": "rimraf",
+            "version": "^2.6.2"
+          },
+          {
+            "name": "smooth-scroll",
+            "version": "^15.0.0"
+          },
+          {
+            "name": "webpack",
+            "version": "^4.19.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/core",
+            "version": "^7.1.2"
+          },
+          {
+            "name": "babel-plugin-transform-runtime",
+            "version": "^6.23.0"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.6.1"
+          },
+          {
+            "name": "eslint-config-airbnb",
+            "version": "^17.1.0"
+          },
+          {
+            "name": "eslint-import-resolver-webpack",
+            "version": "^0.10.1"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.7.0"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.11.1"
+          },
+          {
+            "name": "gh-pages",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "husky",
+            "version": "^1.0.0-rc.14"
+          },
+          {
+            "name": "lint-staged",
+            "version": "^8.0.4"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.7.4"
+          },
+          {
+            "name": "stylelint",
+            "version": "^9.5.0"
+          },
+          {
+            "name": "stylelint-config-recommended-scss",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "stylelint-scss",
+            "version": "^3.4.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "5a48ec43d807dd028a8462454b9085fc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "c057086d-b5e9-5ddb-8951-7c1b86cf15eb": {
+      "resolve": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-page-creator",
+      "id": "c057086d-b5e9-5ddb-8951-7c1b86cf15eb",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:/Users/David Gong/new-site/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/David Gong/new-site/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3b84f31ef2a8485f38405f9403fe2b29",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "David&apos;s Blog",
+        "description": "David Gong - Technical/Personal Blog",
+        "siteUrl": "https://davidcgong.com",
+        "author": "David Gong"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "/",
+      "buildTime": "2019-04-10T05:06:59.300Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "f2fd06cf7e286e2d91bee9daf0304545",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "525283c0-6cda-5e84-a8ee-042e9f370ad5": {
+      "id": "525283c0-6cda-5e84-a8ee-042e9f370ad5",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "40b76ab247fd80e49038f8b9af801b47",
+        "type": "Directory",
+        "description": "Directory \"src\\content\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/David Gong/new-site/src/content",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-04-10T03:30:35.510Z",
+      "accessTime": "2019-04-10T03:30:35.510Z",
+      "changeTime": "2019-04-10T03:30:35.510Z",
+      "birthTime": "2019-04-10T03:30:35.508Z",
+      "root": "C:/",
+      "dir": "C:/Users/David Gong/new-site/src",
+      "base": "content",
+      "ext": "",
+      "name": "content",
+      "relativeDirectory": "..",
+      "dev": 2894220145,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849862405912,
+      "atimeMs": 1554867035509.5935,
+      "mtimeMs": 1554867035509.5935,
+      "ctimeMs": 1554867035509.5935,
+      "birthtimeMs": 1554867035507.5947,
+      "atime": "2019-04-10T03:30:35.510Z",
+      "mtime": "2019-04-10T03:30:35.510Z",
+      "ctime": "2019-04-10T03:30:35.510Z",
+      "birthtime": "2019-04-10T03:30:35.508Z"
+    },
+    "ee725444-9e2e-5652-9083-43fcdf228045": {
+      "id": "ee725444-9e2e-5652-9083-43fcdf228045",
+      "children": [
+        "dbe5244f-1528-5c3d-97d7-cc7c07d1b11d"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "80cc82c4fae3a2b12269e1475db44ee2",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src\\content\\2019-01-01-about.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/David Gong/new-site/src/content/2019-01-01-about.md",
+      "relativePath": "2019-01-01-about.md",
+      "extension": "md",
+      "size": 1867,
+      "prettySize": "1.87 kB",
+      "modifiedTime": "2019-04-10T03:30:35.508Z",
+      "accessTime": "2019-04-10T03:30:35.508Z",
+      "changeTime": "2019-04-10T03:30:35.508Z",
+      "birthTime": "2019-04-10T03:30:35.508Z",
+      "root": "C:/",
+      "dir": "C:/Users/David Gong/new-site/src/content",
+      "base": "2019-01-01-about.md",
+      "ext": ".md",
+      "name": "2019-01-01-about",
+      "relativeDirectory": "",
+      "dev": 2894220145,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849862405913,
+      "atimeMs": 1554867035507.5947,
+      "mtimeMs": 1554867035507.5947,
+      "ctimeMs": 1554867035507.5947,
+      "birthtimeMs": 1554867035507.5947,
+      "atime": "2019-04-10T03:30:35.508Z",
+      "mtime": "2019-04-10T03:30:35.508Z",
+      "ctime": "2019-04-10T03:30:35.508Z",
+      "birthtime": "2019-04-10T03:30:35.508Z"
+    },
+    "ee78e5ce-c074-50de-974c-8a629b164eb9": {
+      "id": "ee78e5ce-c074-50de-974c-8a629b164eb9",
+      "children": [
+        "5aed47f6-57e3-5809-834d-61ae02c9d7cb"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "ce63d77d68ce22a977ba7ea0902af4c2",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src\\content\\2019-02-11-trading-options-part-1.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/David Gong/new-site/src/content/2019-02-11-trading-options-part-1.md",
+      "relativePath": "2019-02-11-trading-options-part-1.md",
+      "extension": "md",
+      "size": 11073,
+      "prettySize": "11.1 kB",
+      "modifiedTime": "2019-04-10T03:30:35.509Z",
+      "accessTime": "2019-04-10T03:30:35.508Z",
+      "changeTime": "2019-04-10T03:30:35.509Z",
+      "birthTime": "2019-04-10T03:30:35.508Z",
+      "root": "C:/",
+      "dir": "C:/Users/David Gong/new-site/src/content",
+      "base": "2019-02-11-trading-options-part-1.md",
+      "ext": ".md",
+      "name": "2019-02-11-trading-options-part-1",
+      "relativeDirectory": "",
+      "dev": 2894220145,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849862405914,
+      "atimeMs": 1554867035507.5947,
+      "mtimeMs": 1554867035508.5945,
+      "ctimeMs": 1554867035508.5945,
+      "birthtimeMs": 1554867035507.5947,
+      "atime": "2019-04-10T03:30:35.508Z",
+      "mtime": "2019-04-10T03:30:35.509Z",
+      "ctime": "2019-04-10T03:30:35.509Z",
+      "birthtime": "2019-04-10T03:30:35.508Z"
+    },
+    "bb6972cb-6908-59fa-a45b-f84c32d60fed": {
+      "id": "bb6972cb-6908-59fa-a45b-f84c32d60fed",
+      "children": [
+        "c86a7411-7863-53ec-97a8-fcf515ae2fa6"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "bf53eb7eab8779fd52a3131fc5247d3f",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src\\content\\2019-03-15-beginners-guide-kaggle.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/David Gong/new-site/src/content/2019-03-15-beginners-guide-kaggle.md",
+      "relativePath": "2019-03-15-beginners-guide-kaggle.md",
+      "extension": "md",
+      "size": 10491,
+      "prettySize": "10.5 kB",
+      "modifiedTime": "2019-04-10T05:03:10.119Z",
+      "accessTime": "2019-04-10T03:30:35.509Z",
+      "changeTime": "2019-04-10T05:03:10.119Z",
+      "birthTime": "2019-04-10T03:30:35.509Z",
+      "root": "C:/",
+      "dir": "C:/Users/David Gong/new-site/src/content",
+      "base": "2019-03-15-beginners-guide-kaggle.md",
+      "ext": ".md",
+      "name": "2019-03-15-beginners-guide-kaggle",
+      "relativeDirectory": "",
+      "dev": 2894220145,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849862405915,
+      "atimeMs": 1554867035508.5945,
+      "mtimeMs": 1554872590119.0947,
+      "ctimeMs": 1554872590119.0947,
+      "birthtimeMs": 1554867035508.5945,
+      "atime": "2019-04-10T03:30:35.509Z",
+      "mtime": "2019-04-10T05:03:10.119Z",
+      "ctime": "2019-04-10T05:03:10.119Z",
+      "birthtime": "2019-04-10T03:30:35.509Z"
+    },
+    "bab7e75c-87d4-5a89-a36a-d16006008f16": {
+      "id": "bab7e75c-87d4-5a89-a36a-d16006008f16",
+      "children": [
+        "6f8db850-3ae1-5ff6-af4d-266ef48359d6"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4ca55d4a66828b3ff8dc8894a38d2e26",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src\\content\\2019-03-19-a-framework-for-placing-trades.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/David Gong/new-site/src/content/2019-03-19-a-framework-for-placing-trades.md",
+      "relativePath": "2019-03-19-a-framework-for-placing-trades.md",
+      "extension": "md",
+      "size": 17165,
+      "prettySize": "17.2 kB",
+      "modifiedTime": "2019-04-10T03:30:35.510Z",
+      "accessTime": "2019-04-10T03:30:35.510Z",
+      "changeTime": "2019-04-10T03:30:35.510Z",
+      "birthTime": "2019-04-10T03:30:35.510Z",
+      "root": "C:/",
+      "dir": "C:/Users/David Gong/new-site/src/content",
+      "base": "2019-03-19-a-framework-for-placing-trades.md",
+      "ext": ".md",
+      "name": "2019-03-19-a-framework-for-placing-trades",
+      "relativeDirectory": "",
+      "dev": 2894220145,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849862405916,
+      "atimeMs": 1554867035509.5935,
+      "mtimeMs": 1554867035509.5935,
+      "ctimeMs": 1554867035509.5935,
+      "birthtimeMs": 1554867035509.5935,
+      "atime": "2019-04-10T03:30:35.510Z",
+      "mtime": "2019-04-10T03:30:35.510Z",
+      "ctime": "2019-04-10T03:30:35.510Z",
+      "birthtime": "2019-04-10T03:30:35.510Z"
+    },
+    "df474b62-f242-5862-aee0-c435d287b60c": {
+      "id": "df474b62-f242-5862-aee0-c435d287b60c",
+      "children": [
+        "87ed6988-69fc-5e73-80b9-06f872f864c1"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "6c30f337cd9782dd77d29f89dd8636df",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src\\content\\2019-04-04-Reading-List-For-Trading.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/David Gong/new-site/src/content/2019-04-04-Reading-List-For-Trading.md",
+      "relativePath": "2019-04-04-Reading-List-For-Trading.md",
+      "extension": "md",
+      "size": 3274,
+      "prettySize": "3.27 kB",
+      "modifiedTime": "2019-04-10T05:00:25.516Z",
+      "accessTime": "2019-04-10T03:30:35.510Z",
+      "changeTime": "2019-04-10T05:00:25.516Z",
+      "birthTime": "2019-04-10T03:30:35.510Z",
+      "root": "C:/",
+      "dir": "C:/Users/David Gong/new-site/src/content",
+      "base": "2019-04-04-Reading-List-For-Trading.md",
+      "ext": ".md",
+      "name": "2019-04-04-Reading-List-For-Trading",
+      "relativeDirectory": "",
+      "dev": 2894220145,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849862405917,
+      "atimeMs": 1554867035509.5935,
+      "mtimeMs": 1554872425516.0208,
+      "ctimeMs": 1554872425516.0208,
+      "birthtimeMs": 1554867035509.5935,
+      "atime": "2019-04-10T03:30:35.510Z",
+      "mtime": "2019-04-10T05:00:25.516Z",
+      "ctime": "2019-04-10T05:00:25.516Z",
+      "birthtime": "2019-04-10T03:30:35.510Z"
+    },
+    "2fbc3aef-0351-5bc9-b526-7339bb2ace12": {
+      "id": "2fbc3aef-0351-5bc9-b526-7339bb2ace12",
+      "children": [
+        "bc4ec2f9-1ad2-56de-8982-4af89d92f332"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "a89ea03a54635a1d979afe9b91f1ad74",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src\\content\\guestbook.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/David Gong/new-site/src/content/guestbook.md",
+      "relativePath": "guestbook.md",
+      "extension": "md",
+      "size": 271,
+      "prettySize": "271 B",
+      "modifiedTime": "2019-04-10T03:30:35.511Z",
+      "accessTime": "2019-04-10T03:30:35.510Z",
+      "changeTime": "2019-04-10T03:30:35.511Z",
+      "birthTime": "2019-04-10T03:30:35.510Z",
+      "root": "C:/",
+      "dir": "C:/Users/David Gong/new-site/src/content",
+      "base": "guestbook.md",
+      "ext": ".md",
+      "name": "guestbook",
+      "relativeDirectory": "",
+      "dev": 2894220145,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849862405918,
+      "atimeMs": 1554867035509.5935,
+      "mtimeMs": 1554867035510.5935,
+      "ctimeMs": 1554867035510.5935,
+      "birthtimeMs": 1554867035509.5935,
+      "atime": "2019-04-10T03:30:35.510Z",
+      "mtime": "2019-04-10T03:30:35.511Z",
+      "ctime": "2019-04-10T03:30:35.511Z",
+      "birthtime": "2019-04-10T03:30:35.510Z"
+    },
+    "dbe5244f-1528-5c3d-97d7-cc7c07d1b11d": {
+      "id": "dbe5244f-1528-5c3d-97d7-cc7c07d1b11d",
+      "children": [],
+      "parent": "ee725444-9e2e-5652-9083-43fcdf228045",
+      "internal": {
+        "content": "\r\n## A little about me\r\n\r\nI'm currently a rising senior at the Georgia Institute of Technology majoring in Computer Science. I'm passionate about topics related to _data science, algorithmic trading, full stack product development, investing, and entrepreneurship_. \r\n\r\nMy side gigs nowadays include professional-level table tennis and options trading. I was formerly among the best in my respective age groups (U10 through U18) for the USA in table tennis.\r\n\r\n### Some of my works\r\n\r\n- [**Verena (preliminary research link)**](https://github.com/davidcgong/stockvis), algorithmic trading strategies on QuantConnect. Currently also developing a Deep Q-Learning trading bot.\r\n- [**Microsoft Malware Prediction**](https://kaggle.com/davidcgong), research competition on Kaggle (scored within top 10%).\r\n- [**Birddog.io**](http://github.com/davidcgong/Birddog.io), time-series regression forecasting on top-tier median real estate home prices.\r\n- [**Machine Learning**](https://github.com/davidcgong/ML_Coursework/tree/master) [Papers - [Supervised Learning](https://github.com/davidcgong/ML_Coursework/blob/master/Supervised_Learning/dgong8-analysis.pdf), [Randomized Optimization](https://github.com/davidcgong/ML_Coursework/blob/master/Randomized_Optimization/dgong8-analysis.pdf)], some sets of papers and implementations done for CS 7641 at Georgia Tech.\r\n- [**Donation Tracker**](https://www.github.com/davidcgong/donation_tracker), an Android non-profit application for CS+Social Good.\r\n- **Tradeart (my entrepreneurial venture)**, a predictive trading analytics platform.\r\n\r\n### Testing out my trading algorithm\r\n\r\n![Trading algorithm](https://i.imgur.com/8Uu5j2e.png)\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "6e76f47e6aa8751cec753f364970a2eb",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About Me",
+        "templateKey": "blog-post",
+        "id": "c192eaba9fefc632acf87ed636593475",
+        "slug": "/about",
+        "date": "2019-01-01T00:00:00.000Z",
+        "description": "A bit about present me and past me.",
+        "tags": [
+          "Personal"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n## A little about me\r\n\r\nI'm currently a rising senior at the Georgia Institute of Technology majoring in Computer Science. I'm passionate about topics related to _data science, algorithmic trading, full stack product development, investing, and entrepreneurship_. \r\n\r\nMy side gigs nowadays include professional-level table tennis and options trading. I was formerly among the best in my respective age groups (U10 through U18) for the USA in table tennis.\r\n\r\n### Some of my works\r\n\r\n- [**Verena (preliminary research link)**](https://github.com/davidcgong/stockvis), algorithmic trading strategies on QuantConnect. Currently also developing a Deep Q-Learning trading bot.\r\n- [**Microsoft Malware Prediction**](https://kaggle.com/davidcgong), research competition on Kaggle (scored within top 10%).\r\n- [**Birddog.io**](http://github.com/davidcgong/Birddog.io), time-series regression forecasting on top-tier median real estate home prices.\r\n- [**Machine Learning**](https://github.com/davidcgong/ML_Coursework/tree/master) [Papers - [Supervised Learning](https://github.com/davidcgong/ML_Coursework/blob/master/Supervised_Learning/dgong8-analysis.pdf), [Randomized Optimization](https://github.com/davidcgong/ML_Coursework/blob/master/Randomized_Optimization/dgong8-analysis.pdf)], some sets of papers and implementations done for CS 7641 at Georgia Tech.\r\n- [**Donation Tracker**](https://www.github.com/davidcgong/donation_tracker), an Android non-profit application for CS+Social Good.\r\n- **Tradeart (my entrepreneurial venture)**, a predictive trading analytics platform.\r\n\r\n### Testing out my trading algorithm\r\n\r\n![Trading algorithm](https://i.imgur.com/8Uu5j2e.png)\r\n",
+      "fileAbsolutePath": "C:/Users/David Gong/new-site/src/content/2019-01-01-about.md",
+      "fields": {
+        "slug": "/about"
+      }
+    },
+    "5aed47f6-57e3-5809-834d-61ae02c9d7cb": {
+      "id": "5aed47f6-57e3-5809-834d-61ae02c9d7cb",
+      "children": [],
+      "parent": "ee78e5ce-c074-50de-974c-8a629b164eb9",
+      "internal": {
+        "content": "\r\n>Robinhood is an investing and trading application that does not require to pay any commissions. If you are new to Robinhood and would like to give it a try, click on my [referral link](https://share.robinhood.com/davidg3685) here! You and I will both get a share of a stock.\r\n\r\n![Robinhood, a millenial's life-saver when it comes to investing and trading.](https://d1qb2nb5cznatu.cloudfront.net/startups/i/227792-c28dd8f90d35010d984fdb5c0756034e-medium_jpg.jpg?buster=1543696028)\r\n\r\n\r\n## What's so great about Robinhood?\r\n\r\n>Edit 3/20/19: Changed my view on Robinhood... read my _My Decision-Making Framework for Manual Trading_ blog post to find out! Just leaving this here for old time's sake so I can facepalm\r\n\r\nA democratization of the entire investing industry, [Robinhood](https://robinhood.com) is definitely one of the best applications I have come across in terms of investing. As a college student looking to get his feet wet with investing, Robinhood was the perfect application for me to start my venture with less risk. There was no need to pay steeping $7.00 commissions per open and close.\r\n\r\n\r\nI do want to attribute some of my success, however to luck. I made a few earning call plays when it came to options and I made a significant amount of money off of some good \"bets\", albeit without sacrificing too much of my account value.\r\n\r\nIn order to reduce financial risk, I started off with $1,400 (added $400 again at some point), and within one month of doing options trading was able to raise that value to $2,850 while minimizing 30% exposure of the account value for options trading.\r\n![1-month growth of small account](https://i.imgur.com/F6zZIY1.png) \r\n\r\nThis would be a lot if I had a bigger account, but as I'm starting off with a small sum of money, this is perfectly fine.\r\n\r\nBut before we get into any of the trades that occurred and some of the things I have learned, here are a few key important attitudes that I have developed through experience:\r\n\r\n*   **Take reasonable returns when presented**. \r\n\r\nAs a trader, you are only right for so long. Factoring in theta/time decay and consolidations in stock pricing, it is important to not be too greedy.\r\n*   **Strategies are key for consistent account growth**. \r\n\r\nNaked calls and puts are okay, but for lower-risk plays with decent returns, strategies such as straddles, strangles, spreads, and iron condors are much better for overall account growth over time.\r\n*   **Play the probability game.** \r\n\r\nReading up on news, observing moving average candlesticks are effective here, trading off the MACD, and buying and shorting based on support and resistance lines are potential points to consider when taking a position.\r\n\r\n\r\n\r\nI'll go over these three points based on some anecdotes and how I lost the potential for a lot of money while also losing some money. \r\n\r\nAt the same time, I will also go over what made trading this month successful. At the end of the day, however, locking in consistent profits in green is of most importance.\r\n\r\n## Taking reasonable returns\r\n\r\nBefore talking about when to draw the line when it comes to taking returns and how to make an accurate prediction of when the stock will rebound or consolidate, I'd like to first talk about behavioral finance and a probable reason why it kills off the profits of so many traders.\r\n\r\n>If you are interested in learning about behavioral finance and financial markets in general, I highly recommend watching [Financial Markets by Yale University on Coursera.](https://www.coursera.org/learn/financial-markets-global)\r\n\r\nIt is human nature to be optimistic during times of success and pessimistic during times of strife. This is the reason why bull markets and bear markets exist.\r\n\r\n\r\n\r\nThis is a psychological phenomenon that can be observed not only on a yearly basis, but also on a daily basis. Even the very best stocks with the biggest potential for growth go under consolidation at one point before moving back up.\r\n\r\n\r\n![SPY pullbacks on an uptrend](https://www.investopedia.com/thmb/4eMKr38NX2vVHUe2XIoe-UblkyY=/1400x622/filters:no_upscale():max_bytes(150000):strip_icc()/spychart08312017-5bfd6a4346e0fb0051b53a4e)\r\n\r\nPullbacks sucks for the investor, but as a trader, being able to capitalize on volatility is the most important skill to have. Now, let's dive into a few reasons why taking in reasonable returns are very important.\r\n\r\n#### 1. Theta decay A.K.A time decay\r\n\r\n![Scary stuff...](https://theoptionprophet.com/images/Theta_Picture1.jpg)\r\n\r\nAs you can see, the decay of the options contract value is exponential as the date to expiration gets closer. This is because the likelihood of a contract hitting the at the money price gets lower and lower as time goes on. \r\n\r\nWhat does this mean then? If you are trading weekly options, there's going to be some trouble if you wait too long to execute your option. I always give at least two weeks until expiration for my contracts and at the latest (unless something interesting occurs) execute them one week later. \r\n\r\nIf I had a bigger account, I would definitely buy contracts which have longer time frames for execution.\r\n\r\n#### 2. Good luck being able to time a continuing uptrend correctly...\r\nThe market is unpredictable all the time. Chances are if a stock grew 10-15% over the few days, price correction is going to happen. So what should you probably do?\r\n\r\nTake the profits (10-15% has huge implications for the price of a contract) and be ready for the trend reversal based on your outlook (bullish or bearish).\r\n\r\n#### 3. What if there is high volatility?\r\nA little bit off topic from talking about taking in reasonable returns, but going back on what I said about expiration dates, I would also like to note an exception.\r\n\r\n>So, why wouldn't theta decay destroy the price of my contract? This is because of IV in certain cases, more specifically earnings.\r\n\r\nAt least 30% of the gains I have made off this month have been from pre-earning plays, where I capitalize on the high IV (implied volatility) prior to the earnings announcement and then sell right beforehand. A lot of times for these options, I buy them on the same week as earnings. To understand why theta decay does not severely impact the price of an option contract during earnings week, take a look at the following Black-Scholes model used for pricing contracts. \r\n\r\n![Black-Scholes Model. Note that volatility is valued more than time in this formula.](https://i.investopedia.com/blackscholes.png)\r\n\r\nAs can be observed from the formula, contracts will have extremely high premiums during times of volatility. This volatility, combined with the knowledge of general sentiment towards a stock prior to earnings, provides great opportunity for profitable plays. \r\n\r\n**My personal favorite strategy here is a close to the strike price [long strangle](https://www.optionsplaybook.com/option-strategies/long-strangle/), which is position neutral.** As long as the stock goes up or down a good amount, I earn money. This strategy has consistently netted me 20-30% returns on my contracts prior to earnings. \r\n\r\nIf I'm feeling confident about the sentiment behind a stock prior to earnings, I will even do naked calls and puts. \r\n\r\n>Now don't hold them during earnings, because something called a [IV Crush](https://www.markettamer.com/blog/beware-of-implied-volatility-crush) will happen.\r\n\r\nAnd on a final note with regards to **taking reasonable returns**, it is perfectly fine to ride the wave. Just remember that waves must crash down at some point, rather that be intra-day, intra-month, or intra-year. Always be ready.\r\n\r\n![That's gotta hurt...](https://cdn.vox-cdn.com/thumbor/HR7p_v-YmCuLNnRIc4TqrqvPV6o=/0x0:1599x1106/1200x0/filters:focal(0x0:1599x1106):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/4002314/china-graphics_aug26.0.jpg)\r\n\r\n## Strategies for trading options\r\nNow I'm not going to get too into depth on trading strategies, since I'm not too familiar with the concept myself, but one thing to note is that due to my account size, I rarely trade iron condors, butterflies, and spreads which often require a lot of starting capital (at least in Robinhood) since selling puts and calls requires initial capital. \r\n\r\n![Long strangle profit/loss graph](https://www.optionsplaybook.com/media/images/plays/long_strangle_big.png)\r\n\r\nSo, I trade long strangles and straddles for the most part. Once I manage to obtain more money, I plan to sell puts on stocks I seek to enter a position in stocks with high EV and growth potential (ideally MSFT, AAPL, FB, and more).\r\n\r\nHowever, what I can say is that volatility is a dream for people who trade strangles. Picking the stocks with a lot of volatility, combined with the ability to liquidate contracts when needed is often a ripe recipe for consistent profits. Post-earning strangles have been amazing at providing sharp returns, at least for this month.\r\n\r\n>Also, February is generally the most volatile month for trading.\r\n\r\n## Playing the probability game\r\nAlways think about the probability of a stock gapping down and gapping up. [Patterns](https://optionalpha.com/13-stock-chart-patterns-that-you-cant-afford-to-forget-10585.html) also happen quite often intraday and intraweek. There are various patterns that can help you make a higher probability decision when it comes to deciding on whether or not to close or open a position.\r\n\r\n![Support and resistance lines on an ascending triangle uptrend, into a breakdown that was indicated by MACD.](http://www.optionstradingiq.com/wp-content/uploads/long-strangle-strategy-2.png)\r\n\r\nRead up on news, gather sentiment, trade off the support and resistance lines, and in general this will lead to successful trades.\r\n\r\nOverall, being able to think about patterns (descending triangles and ascending triangles mostly), and always thinking about **\"What's the probability the stock will trade upwards, sideways, downwards, and for how long?\"** have often lead me to make profitable and reasonable decisions.\r\n\r\n>Oh, and one last note. It's not what you think that is important, but it is how others are sold on the hype which should be the main basis behind your decision!\r\n\r\n## And...\r\nthat about wraps it up! These three important lessons I have learned over the course of trading options has ultimately made me a better, disciplined trader. Of course, there is still much to learn but I'm quite optimistic about learning more about trading.\r\n\r\nDon't forget, if you have not yet opened an account with Robinhood, feel free to use my [referral link](https://share.robinhood.com/davidg3685) here! We both get a stock (which means either a free PS4 if we're lucky, or at the very least free milk tea!)",
+        "type": "MarkdownRemark",
+        "contentDigest": "b2ec54e53ed4ca029d313e4ed310ba13",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Trading Options, Part 1",
+        "slug": "trading-options-part-1",
+        "date": "2019-02-15T02:38:23.251Z",
+        "description": "A recent experience with trading options on Robinhood.",
+        "tags": [
+          "Trading",
+          "Options"
+        ],
+        "headerImage": "https://static1.squarespace.com/static/53fe4a70e4b0a2293ab0e42a/t/59f8b71e6c319429ab1de291/1509472047704/10.png",
+        "templateKey": "blog-post"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n>Robinhood is an investing and trading application that does not require to pay any commissions. If you are new to Robinhood and would like to give it a try, click on my [referral link](https://share.robinhood.com/davidg3685) here! You and I will both get a share of a stock.\r\n\r\n![Robinhood, a millenial's life-saver when it comes to investing and trading.](https://d1qb2nb5cznatu.cloudfront.net/startups/i/227792-c28dd8f90d35010d984fdb5c0756034e-medium_jpg.jpg?buster=1543696028)\r\n\r\n\r\n## What's so great about Robinhood?\r\n\r\n>Edit 3/20/19: Changed my view on Robinhood... read my _My Decision-Making Framework for Manual Trading_ blog post to find out! Just leaving this here for old time's sake so I can facepalm\r\n\r\nA democratization of the entire investing industry, [Robinhood](https://robinhood.com) is definitely one of the best applications I have come across in terms of investing. As a college student looking to get his feet wet with investing, Robinhood was the perfect application for me to start my venture with less risk. There was no need to pay steeping $7.00 commissions per open and close.\r\n\r\n\r\nI do want to attribute some of my success, however to luck. I made a few earning call plays when it came to options and I made a significant amount of money off of some good \"bets\", albeit without sacrificing too much of my account value.\r\n\r\nIn order to reduce financial risk, I started off with $1,400 (added $400 again at some point), and within one month of doing options trading was able to raise that value to $2,850 while minimizing 30% exposure of the account value for options trading.\r\n![1-month growth of small account](https://i.imgur.com/F6zZIY1.png) \r\n\r\nThis would be a lot if I had a bigger account, but as I'm starting off with a small sum of money, this is perfectly fine.\r\n\r\nBut before we get into any of the trades that occurred and some of the things I have learned, here are a few key important attitudes that I have developed through experience:\r\n\r\n*   **Take reasonable returns when presented**. \r\n\r\nAs a trader, you are only right for so long. Factoring in theta/time decay and consolidations in stock pricing, it is important to not be too greedy.\r\n*   **Strategies are key for consistent account growth**. \r\n\r\nNaked calls and puts are okay, but for lower-risk plays with decent returns, strategies such as straddles, strangles, spreads, and iron condors are much better for overall account growth over time.\r\n*   **Play the probability game.** \r\n\r\nReading up on news, observing moving average candlesticks are effective here, trading off the MACD, and buying and shorting based on support and resistance lines are potential points to consider when taking a position.\r\n\r\n\r\n\r\nI'll go over these three points based on some anecdotes and how I lost the potential for a lot of money while also losing some money. \r\n\r\nAt the same time, I will also go over what made trading this month successful. At the end of the day, however, locking in consistent profits in green is of most importance.\r\n\r\n## Taking reasonable returns\r\n\r\nBefore talking about when to draw the line when it comes to taking returns and how to make an accurate prediction of when the stock will rebound or consolidate, I'd like to first talk about behavioral finance and a probable reason why it kills off the profits of so many traders.\r\n\r\n>If you are interested in learning about behavioral finance and financial markets in general, I highly recommend watching [Financial Markets by Yale University on Coursera.](https://www.coursera.org/learn/financial-markets-global)\r\n\r\nIt is human nature to be optimistic during times of success and pessimistic during times of strife. This is the reason why bull markets and bear markets exist.\r\n\r\n\r\n\r\nThis is a psychological phenomenon that can be observed not only on a yearly basis, but also on a daily basis. Even the very best stocks with the biggest potential for growth go under consolidation at one point before moving back up.\r\n\r\n\r\n![SPY pullbacks on an uptrend](https://www.investopedia.com/thmb/4eMKr38NX2vVHUe2XIoe-UblkyY=/1400x622/filters:no_upscale():max_bytes(150000):strip_icc()/spychart08312017-5bfd6a4346e0fb0051b53a4e)\r\n\r\nPullbacks sucks for the investor, but as a trader, being able to capitalize on volatility is the most important skill to have. Now, let's dive into a few reasons why taking in reasonable returns are very important.\r\n\r\n#### 1. Theta decay A.K.A time decay\r\n\r\n![Scary stuff...](https://theoptionprophet.com/images/Theta_Picture1.jpg)\r\n\r\nAs you can see, the decay of the options contract value is exponential as the date to expiration gets closer. This is because the likelihood of a contract hitting the at the money price gets lower and lower as time goes on. \r\n\r\nWhat does this mean then? If you are trading weekly options, there's going to be some trouble if you wait too long to execute your option. I always give at least two weeks until expiration for my contracts and at the latest (unless something interesting occurs) execute them one week later. \r\n\r\nIf I had a bigger account, I would definitely buy contracts which have longer time frames for execution.\r\n\r\n#### 2. Good luck being able to time a continuing uptrend correctly...\r\nThe market is unpredictable all the time. Chances are if a stock grew 10-15% over the few days, price correction is going to happen. So what should you probably do?\r\n\r\nTake the profits (10-15% has huge implications for the price of a contract) and be ready for the trend reversal based on your outlook (bullish or bearish).\r\n\r\n#### 3. What if there is high volatility?\r\nA little bit off topic from talking about taking in reasonable returns, but going back on what I said about expiration dates, I would also like to note an exception.\r\n\r\n>So, why wouldn't theta decay destroy the price of my contract? This is because of IV in certain cases, more specifically earnings.\r\n\r\nAt least 30% of the gains I have made off this month have been from pre-earning plays, where I capitalize on the high IV (implied volatility) prior to the earnings announcement and then sell right beforehand. A lot of times for these options, I buy them on the same week as earnings. To understand why theta decay does not severely impact the price of an option contract during earnings week, take a look at the following Black-Scholes model used for pricing contracts. \r\n\r\n![Black-Scholes Model. Note that volatility is valued more than time in this formula.](https://i.investopedia.com/blackscholes.png)\r\n\r\nAs can be observed from the formula, contracts will have extremely high premiums during times of volatility. This volatility, combined with the knowledge of general sentiment towards a stock prior to earnings, provides great opportunity for profitable plays. \r\n\r\n**My personal favorite strategy here is a close to the strike price [long strangle](https://www.optionsplaybook.com/option-strategies/long-strangle/), which is position neutral.** As long as the stock goes up or down a good amount, I earn money. This strategy has consistently netted me 20-30% returns on my contracts prior to earnings. \r\n\r\nIf I'm feeling confident about the sentiment behind a stock prior to earnings, I will even do naked calls and puts. \r\n\r\n>Now don't hold them during earnings, because something called a [IV Crush](https://www.markettamer.com/blog/beware-of-implied-volatility-crush) will happen.\r\n\r\nAnd on a final note with regards to **taking reasonable returns**, it is perfectly fine to ride the wave. Just remember that waves must crash down at some point, rather that be intra-day, intra-month, or intra-year. Always be ready.\r\n\r\n![That's gotta hurt...](https://cdn.vox-cdn.com/thumbor/HR7p_v-YmCuLNnRIc4TqrqvPV6o=/0x0:1599x1106/1200x0/filters:focal(0x0:1599x1106):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/4002314/china-graphics_aug26.0.jpg)\r\n\r\n## Strategies for trading options\r\nNow I'm not going to get too into depth on trading strategies, since I'm not too familiar with the concept myself, but one thing to note is that due to my account size, I rarely trade iron condors, butterflies, and spreads which often require a lot of starting capital (at least in Robinhood) since selling puts and calls requires initial capital. \r\n\r\n![Long strangle profit/loss graph](https://www.optionsplaybook.com/media/images/plays/long_strangle_big.png)\r\n\r\nSo, I trade long strangles and straddles for the most part. Once I manage to obtain more money, I plan to sell puts on stocks I seek to enter a position in stocks with high EV and growth potential (ideally MSFT, AAPL, FB, and more).\r\n\r\nHowever, what I can say is that volatility is a dream for people who trade strangles. Picking the stocks with a lot of volatility, combined with the ability to liquidate contracts when needed is often a ripe recipe for consistent profits. Post-earning strangles have been amazing at providing sharp returns, at least for this month.\r\n\r\n>Also, February is generally the most volatile month for trading.\r\n\r\n## Playing the probability game\r\nAlways think about the probability of a stock gapping down and gapping up. [Patterns](https://optionalpha.com/13-stock-chart-patterns-that-you-cant-afford-to-forget-10585.html) also happen quite often intraday and intraweek. There are various patterns that can help you make a higher probability decision when it comes to deciding on whether or not to close or open a position.\r\n\r\n![Support and resistance lines on an ascending triangle uptrend, into a breakdown that was indicated by MACD.](http://www.optionstradingiq.com/wp-content/uploads/long-strangle-strategy-2.png)\r\n\r\nRead up on news, gather sentiment, trade off the support and resistance lines, and in general this will lead to successful trades.\r\n\r\nOverall, being able to think about patterns (descending triangles and ascending triangles mostly), and always thinking about **\"What's the probability the stock will trade upwards, sideways, downwards, and for how long?\"** have often lead me to make profitable and reasonable decisions.\r\n\r\n>Oh, and one last note. It's not what you think that is important, but it is how others are sold on the hype which should be the main basis behind your decision!\r\n\r\n## And...\r\nthat about wraps it up! These three important lessons I have learned over the course of trading options has ultimately made me a better, disciplined trader. Of course, there is still much to learn but I'm quite optimistic about learning more about trading.\r\n\r\nDon't forget, if you have not yet opened an account with Robinhood, feel free to use my [referral link](https://share.robinhood.com/davidg3685) here! We both get a stock (which means either a free PS4 if we're lucky, or at the very least free milk tea!)",
+      "fileAbsolutePath": "C:/Users/David Gong/new-site/src/content/2019-02-11-trading-options-part-1.md",
+      "fields": {
+        "slug": "trading-options-part-1"
+      }
+    },
+    "bc4ec2f9-1ad2-56de-8982-4af89d92f332": {
+      "id": "bc4ec2f9-1ad2-56de-8982-4af89d92f332",
+      "children": [],
+      "parent": "2fbc3aef-0351-5bc9-b526-7339bb2ace12",
+      "internal": {
+        "content": "\r\n## Say hi if you'd like!\r\n\r\nFeel free to leave any feedback you have on the website here so I can improve it!\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "38b5a1988a6feba5c1c2dd24991e6c33",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Comments",
+        "templateKey": "blog-post",
+        "id": "https://calpa.me/guestbook/",
+        "slug": "/guestbook",
+        "date": "2019-01-01T00:00:00.000Z",
+        "description": "",
+        "tags": [
+          "Personal"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n## Say hi if you'd like!\r\n\r\nFeel free to leave any feedback you have on the website here so I can improve it!\r\n",
+      "fileAbsolutePath": "C:/Users/David Gong/new-site/src/content/guestbook.md",
+      "fields": {
+        "slug": "/guestbook"
+      }
+    },
+    "6f8db850-3ae1-5ff6-af4d-266ef48359d6": {
+      "id": "6f8db850-3ae1-5ff6-af4d-266ef48359d6",
+      "children": [],
+      "parent": "bab7e75c-87d4-5a89-a36a-d16006008f16",
+      "internal": {
+        "content": "\r\n>Preface: This is unrelated to trading algorithms at the moment, but this is just more related to what I think about before deciding to take a position on a trade, how I hedge trades, etc. \r\n\r\n## Introduction\r\n\r\nI present here some of the things I think about before entering and exiting a trade, and the general mindset I adhere to before deciding to take full responsibility for the potential risk-reward and opportunity flow, as well as being able to figure out where to put my bucket before it rains. \r\n\r\nPlease note that no amount of technical analysis can save you from yourself. Technical analysis merely provides you with an edge; it is up to you to act and accept the rewards and consequences of your trading and to not be emotionally flabbergasted.\r\n\r\n## Decision-making processes\r\n\r\n>These ideas mostly apply to mid-large cap traded stocks. No penny stocks here! If you're interested in trading penny stocks or doing day trading, VWAP tends to be a good indicator. I also did not talk about EMA here, but you should definitely study this indicator with regards to trend reversals across any time period.\r\n\r\nHere are a few metrics I look for before making a decisive decision (long or short):\r\n\r\n### 1) Support and resistance lines\r\n\r\nIn my opinion, this should be the very first thing one should look at before deciding to trade a stock.\r\n\r\nBased on the stock, there are two types of SR lines that you might think to observe - that is either... \r\n\r\n- Trendline Support/Resistance\r\n- Key Support/Resistance\r\n\r\nBoth are important to draw out on the chart in either a full year period or half a year. \r\n\r\nIdentifying support and resistance lines sets the very basis of whether or not your trade is highly probable to be successful and profitable, in addition to maximum potential gain. \r\n\r\nThe basic example is to buy closer to or at support (please confirm reversal trend first but I'll talk about this later) and to short sell or sell off at resistance zones when the momentum in one direction has died off. \r\n\r\nThis is far from being an easily profitable strategy and you need more data to back this up, but I'll talk about that a bit later.\r\n\r\nLet me introduce an example with NVDA:\r\n\r\n![](https://www.tradingview.com/x/oAIK432C/)\r\n\r\n>NVDA is an example of a stock that was part of the cryptocurrency burst with its competitor AMD. While NVDA has a sizeable market share in Datacenter and GPUs, it wasn't enough to stop the stock from dropping from $291 to $125 in a matter of months. \r\n\r\nDraw the lines based on history, and based on where the stock has bounced versus where the stock has rejected further uptrending moves. Remember that once a stock has been confirmed to have broken through resistance, this typically means that our new resistance has become new support. As an example, $162 is now our key support for NVDA.\r\n\r\nAlso, drawing the intra-monthly trend support/resistance lines allow us to see that NVDA is currently in an ascending triangle pattern. This means that the stock is closing at higher lows and highs, and is moving upwards overall. \r\n\r\nThe stock is back on track, but there are still resistance zones to break out from. The potential breakout zones (202.79, 173.03, 161.94, 143.27) with the top 2 being resistance zones and bottom 2 being support zones show a few things.\r\n\r\n\r\n#### I. Trading range\r\n\r\nIn the short term (intra-week), we see that it is very likely without an external catalyst that the stock will trade within the $174 - $162 zone. This is because this range is our higher and lower bound of support and resistance.\r\n\r\nThe better key piece of information to take notice of however is the trendline trading range. It is more likely that NVDA will consistently trade within that pattern, moving up and down when encountering resistance and support. The range is probably closer to that of $178 - $171.50 within the coming days.\r\n\r\n#### II. The current price breaks resistance, but just slightly\r\n\r\nIn unexpected fashion, the stock broke through resistance. This happens more often than people think, which is precisely why people need to learn how to wait for either confirmation of the reversal or momentum decrease before making a decision that is more probable to succeed.\r\n\r\nHowever, at this point in time we see that the stock did two things.\r\n\r\n- Is approaching or at trendline resistance\r\n- Broke through prior key resistance in 4 months\r\n\r\nWhat is the probability that NVDA makes a runner here? Probably not a lot. One should understand that psychology itself would be focused on taking profits on the way to the top, and not vice versa. Even algorithms are programmed to make calculations in this manner.\r\n\r\nThe probability that NVDA does a slight drawback to the trendline support is more likely however, and then once again one has to be able to be prepared to be vigilant in analyzing which way the stock goes from there. If it continues its uptrend, buying at trendline support might prove to be a nice discount. \r\n\r\nI would personally short the stock in this case, albeit I haven't yet mentioned the other indicator(s) which I use to fully make this decision. \r\n\r\n### 2) Relative Strength Index (RSI)\r\n\r\n>The relative strength index (RSI) is a momentum indicator that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset. The RSI is displayed as an oscillator (a line graph that moves between two extremes) and can have a reading from 0 to 100. - [Investopedia on RSI](https://www.investopedia.com/terms/r/rsi.asp)\r\n\r\nIf the stock is being classified as overbought by RSI but it was still uptrending, would you think it is likely that it will continue to go up? Maybe it will continue to go up, but the possibility of it making an accelerated move upwards when its classified as overbought on the 6-month chart is rather low. \r\n\r\nOf course, sentiment may turn the stock on its head and soon enough the stock may continue to soar and reach new highs even at an overbought stage. There are many factors in play here.\r\n\r\n**But even more so, your foundation for laying out a thesis should have a much larger share with regards to support and resistance lines.** Watch how the RSI doesn't really capture this huge move in 2 days (NVDA dropped from $200 to $144):\r\n\r\n![](https://www.tradingview.com/x/boJTTHuo/)\r\n\r\n*Use the RSI to support your thesis, and not to change or found it.*\r\n\r\n### 3) Fibonacci retracements\r\n\r\n>In technical analysis, a Fibonacci retracement is created by taking two extreme points (usually a major peak and trough) on a stock chart and dividing the vertical distance by the key Fibonacci ratios of 23.6%, 38.2%, 50%, 61.8% and 100%. Once these levels are identified, horizontal lines are drawn and used to identify possible support and resistance levels. - [Investopedia on Fib. retracements](https://www.investopedia.com/ask/answers/05/fibonacciretracement.asp)\r\n\r\n![](https://www.tradingview.com/x/WxEP9D2N/)\r\n\r\nIn addition to doing trendline and key support/resistance analysis, fibonacci retracements are also great at identifying where the stock is at in terms of support/resistance levels. You can see that when the stock is trading within a decently consistent range and is not overly volatile, the stock tends to trade off the middle line. \r\n\r\nPersonally, I find that if the supports and resistance zones matches closely with my fibonacci retracements, the reversals and predictions tend to be a tad bit more accurate (backed by more data and trading volume)\r\n\r\n### 4) Patterns\r\n\r\nPatterns tend to repeat themselves in the market. I did identify an ascending triangle with NVDA, but there are numerous other patterns. Namely, head and shoulders, inverse head and shoulders, descending triangle, **wedges**, and more.\r\n\r\n#### I. Triangles\r\n\r\nTriangles are pretty simple. Draw trendline resistance and support, keep in mind overall market sentiment, check news, and generally given that there are no external catalysts prices should continue in that direction.\r\n\r\n**However, the triangle almost always eventually develops into a wedge.** A wedge is definitely where one has a bigger potential for earning money. Check out the next part.\r\n\r\n#### II. Wedges\r\n\r\nIn this market, I tend to trade the bullish indicators of the market, though at this moment (March 20th, 2019), the market seems to be on the overbought side. On the polar sides of overbought and oversoldness, I find that wedges tend to breakout more than usual in the other direction.\r\n\r\nHere's an example of a wedge with AAPL (I know there's some forward-looking bias here but I want to show an example with a frequently traded stock).\r\n\r\n![](https://www.tradingview.com/x/lTVdmOUX/)\r\n\r\nAs you can see, **as the range within the trending resistance and support lines diminish, the price is likely going to bounce in one direction or the other.** Typically, it goes the other way from its original direction (ascending triangle into downtrend, descending triangle into uptrend). Sometimes it continues the same outlook, but that is dependent largely on news, general market sentiment (investor/trader confidence), and maybe earnings.\r\n\r\n> Think about psychology in this case. Will people be willing to bet more money into the stock when they believe it to have grown? Traders who have already profitted would likely sell off or buy off into the other direction depending on the previous triangular trends.\r\n\r\n### 5) News\r\n\r\nI actually made most (and lost) most of my money through news. After going through good and bad episodes of buying and selling the news, I have come to a few conclusions. \r\n\r\nThere are two types of news that one should pay attention to. Also keep in mind that in scenarios like this, I think as both a trader and an investor and all technical indicators are thrown out the window. \r\n\r\nOnly historical data and a good sense of psychology will be the most beneficial in this scenario.\r\n\r\nAnyways, here are the two types which are pretty simple:\r\n\r\n1. Long-term damaging and potential signal of danger to the company (Blue Apron business model, Kraft-Heinz record losses, and overall decreasing in popularity)\r\n2. Impulse news or short-term impact news (Analyst downgrade based on largely speculation, the Boeing crash, Johnson & Johnson baby powder scandal, Elon Musk being a memer)\r\n\r\nI find that I don't really encounter the first type of news in the first place. This is mostly due to the fact that I'm just not particularly interested in those specific sectors, and I typically focus on high market share stocks such as Apple, Facebook, Nvidia, AMD, Alibaba, et cetera or I just trade the SPY.\r\n\r\nEither way, I did pick up trading Boeing and Tesla as of late due to the recent news. In fact, I'll just lay out my theses here.\r\n\r\n#### Deciphering impulse news\r\n\r\n##### Johnson & Johnson Case\r\nWhen Johnson & Johnson (JNJ) talked about the baby powder scandal in December 2018, the media ate it up like cake. Non-stop reporting for news coverage and revenue comes from talking about topics such as these, so that is to be expected. Surely enough, JNJ lost up to 15% of its share value within a couple weeks. \r\n\r\nSlowly but surely, we now see it return from $123 to $138. Why? Simply because this baby powder scandal did not pose a long-term threat to JNJ. This baby powder scandal was just one product out of thousands if not tens of thousands of JNJ products. \r\n\r\n##### Boeing Case\r\nBoeing is a more recent and much, much more tragic case, where hundreds of people have lost their lives due to a software bug in the angle of attack system. Still, even with this tragic event we can still see the resilience of Boeing as a company that might even get more investors to invest in the company in the long-run. The reasoning being that if even a tragic case such as this was not enough to send a large amount of investors from selling off the stock, the company is __almost__ certainly clear for the skies in the long-run.\r\n\r\nAn investor understands that Boeing holds an extremely large market share and means of production when it comes to aircraft. Nearly all major airlines operate Boeing aircraft, and not exclusively to the Boeing 737 Max Series.\r\n\r\nAs of current news, a lot of bad news have been consistently pricing in, ultimately leading to the grounding of all Boeing 737 Max aircraft until a definite resolution has been made. This will definitely cut into Boeing's earnings and revenue as the company will have to pay large penalties and deal with PR issues.\r\n\r\nEven so, Boeing still holds consistently at $370, and I remember explicitly that the day Boeing dropped from $420 to $370, it bounced right back up to $400 in just one day. Of course, that was until bad news were only expanded upon. \r\n\r\nBoeing in the long-term, let's say 5-10 years from now will be slightly dented from this incident. So what does an investor think? An investor will think, \"This is the time to buy Boeing at a discount!\"\r\n\r\nAs a trader, specifically an options trader, this has some large implications with regards to volatility. Risk and reward, establishment of support and resistance lines, learning to scalp might make one trade profitably in this scenario.\r\n\r\n##### Tesla Case\r\nElon Musk likes to talk smack and knock the price down, and Tesla's metrics has not been so stellar either, leading to an astounding loss in the stock's value over the last few months. Yet, TSLA shows time and time again that so many investors love to buy the stock as much as short-sellers love to short the stock even in the face of bad news. What does this mean? Eventually, I believe the longs will win out over the shorts unless more bad news happens. Improbable, but certainly possible. \r\n\r\n\r\n## Progress update\r\n\r\nI think I've definitely learned a lot since my last blog post. Looking back, I definitely changed the way I think and I'm glad for it. Also I'm not as much of a fanboy of Robinhood anymore as I am of InteractiveBrokers (mostly because Robinhood absolutely sucks at filling orders which sometimes cost me more than the cost of commissions).\r\n\r\n### Self-criticism\r\n\r\nThus far, I have been able to grow $1,400 to $3,500 over the last two months while maintaining a medium-level of risk (30% account exposure to options) over the last two months. I know, pretty high percentage-wise in terms of exposure, but this is precisely due to the fact that I happen to have a relatively small account. \r\n\r\nLast week I was actually originally up $4,200 at one point this month. The following days, I broke my discipline of 30% account exposure to options, and overtraded. I quickly fell back to $2,500 (-$500 on Weibo, -$1000 on TSLA, -$200 on a combination of other various stocks I traded).\r\n\r\n Had I not been so overly optimistic and confident, and trusted in rational decision-making, I would probably have been saying I grew $1,400 to $6,000 instead. My father assured me that this was normal. Ray Dalio, the founder of Bridgewater, went through worse tribulations than I did before building the US's largest hedge fund. You live and you learn!\r\n\r\nI bought WB at the peak out of too much optimism from my previous winning trades, betted on TSLA breaking through support and heavily shorted it, and then became impatient with losing trades after. A recipe for disaster.\r\n\r\nI may have managed to recover, but I will keep this experience in mind in the future. Definitely will prove to be valuable when I have more money in my account.\r\n\r\n**Didn't do as well as I had hoped, but this was because I made as many good decisions as I made bad decisions. At the end of the day, it could have been worse. The rest really boiled down to luck and I really want myself to be wary of this.**\r\n\r\n### Changing trading habits\r\n\r\nI have swapped the time frames on all my option contracts to at the very least 1 month prior to expiration so theta decay doesn't bite me later. \r\n\r\nThe only thing that is unfortunate about this is that you gain less money when your contract is ITM, but I really don't mind sizing down that risk as short-term contracts often times don't work out in your favor in a lot of times. \r\n\r\n_Giving yourself breathing room for your theory to play out even though things might be going south is what I find to be pretty crucial in being consistently profitable. I find trusting the mathematics, statistics, and indicators to be much more powerful than your gut._\r\n\r\n\r\n## Closing remarks\r\n\r\nThese are the five technical indicators and sentiment analysis I think about before entering a trade. I believe that learning about the markets and making decisions in this manner will give me an edge, but the mindset is ultimately what will be the determining factor. I'm currently delving into trading psychology audiobooks on Audible and will be releasing a reading list of the trading books I plan to read for 2019. Stay tuned!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "74a347e1d6a0e96845add7fe24ee3582",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "My Basic Framework for Placing Trades",
+        "slug": "framework-placing-trades",
+        "date": "2019-03-19T02:38:23.251Z",
+        "description": "The key technical indicators I use before deciding to place a trade.",
+        "tags": [
+          "Trading",
+          "Options"
+        ],
+        "templateKey": "blog-post"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n>Preface: This is unrelated to trading algorithms at the moment, but this is just more related to what I think about before deciding to take a position on a trade, how I hedge trades, etc. \r\n\r\n## Introduction\r\n\r\nI present here some of the things I think about before entering and exiting a trade, and the general mindset I adhere to before deciding to take full responsibility for the potential risk-reward and opportunity flow, as well as being able to figure out where to put my bucket before it rains. \r\n\r\nPlease note that no amount of technical analysis can save you from yourself. Technical analysis merely provides you with an edge; it is up to you to act and accept the rewards and consequences of your trading and to not be emotionally flabbergasted.\r\n\r\n## Decision-making processes\r\n\r\n>These ideas mostly apply to mid-large cap traded stocks. No penny stocks here! If you're interested in trading penny stocks or doing day trading, VWAP tends to be a good indicator. I also did not talk about EMA here, but you should definitely study this indicator with regards to trend reversals across any time period.\r\n\r\nHere are a few metrics I look for before making a decisive decision (long or short):\r\n\r\n### 1) Support and resistance lines\r\n\r\nIn my opinion, this should be the very first thing one should look at before deciding to trade a stock.\r\n\r\nBased on the stock, there are two types of SR lines that you might think to observe - that is either... \r\n\r\n- Trendline Support/Resistance\r\n- Key Support/Resistance\r\n\r\nBoth are important to draw out on the chart in either a full year period or half a year. \r\n\r\nIdentifying support and resistance lines sets the very basis of whether or not your trade is highly probable to be successful and profitable, in addition to maximum potential gain. \r\n\r\nThe basic example is to buy closer to or at support (please confirm reversal trend first but I'll talk about this later) and to short sell or sell off at resistance zones when the momentum in one direction has died off. \r\n\r\nThis is far from being an easily profitable strategy and you need more data to back this up, but I'll talk about that a bit later.\r\n\r\nLet me introduce an example with NVDA:\r\n\r\n![](https://www.tradingview.com/x/oAIK432C/)\r\n\r\n>NVDA is an example of a stock that was part of the cryptocurrency burst with its competitor AMD. While NVDA has a sizeable market share in Datacenter and GPUs, it wasn't enough to stop the stock from dropping from $291 to $125 in a matter of months. \r\n\r\nDraw the lines based on history, and based on where the stock has bounced versus where the stock has rejected further uptrending moves. Remember that once a stock has been confirmed to have broken through resistance, this typically means that our new resistance has become new support. As an example, $162 is now our key support for NVDA.\r\n\r\nAlso, drawing the intra-monthly trend support/resistance lines allow us to see that NVDA is currently in an ascending triangle pattern. This means that the stock is closing at higher lows and highs, and is moving upwards overall. \r\n\r\nThe stock is back on track, but there are still resistance zones to break out from. The potential breakout zones (202.79, 173.03, 161.94, 143.27) with the top 2 being resistance zones and bottom 2 being support zones show a few things.\r\n\r\n\r\n#### I. Trading range\r\n\r\nIn the short term (intra-week), we see that it is very likely without an external catalyst that the stock will trade within the $174 - $162 zone. This is because this range is our higher and lower bound of support and resistance.\r\n\r\nThe better key piece of information to take notice of however is the trendline trading range. It is more likely that NVDA will consistently trade within that pattern, moving up and down when encountering resistance and support. The range is probably closer to that of $178 - $171.50 within the coming days.\r\n\r\n#### II. The current price breaks resistance, but just slightly\r\n\r\nIn unexpected fashion, the stock broke through resistance. This happens more often than people think, which is precisely why people need to learn how to wait for either confirmation of the reversal or momentum decrease before making a decision that is more probable to succeed.\r\n\r\nHowever, at this point in time we see that the stock did two things.\r\n\r\n- Is approaching or at trendline resistance\r\n- Broke through prior key resistance in 4 months\r\n\r\nWhat is the probability that NVDA makes a runner here? Probably not a lot. One should understand that psychology itself would be focused on taking profits on the way to the top, and not vice versa. Even algorithms are programmed to make calculations in this manner.\r\n\r\nThe probability that NVDA does a slight drawback to the trendline support is more likely however, and then once again one has to be able to be prepared to be vigilant in analyzing which way the stock goes from there. If it continues its uptrend, buying at trendline support might prove to be a nice discount. \r\n\r\nI would personally short the stock in this case, albeit I haven't yet mentioned the other indicator(s) which I use to fully make this decision. \r\n\r\n### 2) Relative Strength Index (RSI)\r\n\r\n>The relative strength index (RSI) is a momentum indicator that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset. The RSI is displayed as an oscillator (a line graph that moves between two extremes) and can have a reading from 0 to 100. - [Investopedia on RSI](https://www.investopedia.com/terms/r/rsi.asp)\r\n\r\nIf the stock is being classified as overbought by RSI but it was still uptrending, would you think it is likely that it will continue to go up? Maybe it will continue to go up, but the possibility of it making an accelerated move upwards when its classified as overbought on the 6-month chart is rather low. \r\n\r\nOf course, sentiment may turn the stock on its head and soon enough the stock may continue to soar and reach new highs even at an overbought stage. There are many factors in play here.\r\n\r\n**But even more so, your foundation for laying out a thesis should have a much larger share with regards to support and resistance lines.** Watch how the RSI doesn't really capture this huge move in 2 days (NVDA dropped from $200 to $144):\r\n\r\n![](https://www.tradingview.com/x/boJTTHuo/)\r\n\r\n*Use the RSI to support your thesis, and not to change or found it.*\r\n\r\n### 3) Fibonacci retracements\r\n\r\n>In technical analysis, a Fibonacci retracement is created by taking two extreme points (usually a major peak and trough) on a stock chart and dividing the vertical distance by the key Fibonacci ratios of 23.6%, 38.2%, 50%, 61.8% and 100%. Once these levels are identified, horizontal lines are drawn and used to identify possible support and resistance levels. - [Investopedia on Fib. retracements](https://www.investopedia.com/ask/answers/05/fibonacciretracement.asp)\r\n\r\n![](https://www.tradingview.com/x/WxEP9D2N/)\r\n\r\nIn addition to doing trendline and key support/resistance analysis, fibonacci retracements are also great at identifying where the stock is at in terms of support/resistance levels. You can see that when the stock is trading within a decently consistent range and is not overly volatile, the stock tends to trade off the middle line. \r\n\r\nPersonally, I find that if the supports and resistance zones matches closely with my fibonacci retracements, the reversals and predictions tend to be a tad bit more accurate (backed by more data and trading volume)\r\n\r\n### 4) Patterns\r\n\r\nPatterns tend to repeat themselves in the market. I did identify an ascending triangle with NVDA, but there are numerous other patterns. Namely, head and shoulders, inverse head and shoulders, descending triangle, **wedges**, and more.\r\n\r\n#### I. Triangles\r\n\r\nTriangles are pretty simple. Draw trendline resistance and support, keep in mind overall market sentiment, check news, and generally given that there are no external catalysts prices should continue in that direction.\r\n\r\n**However, the triangle almost always eventually develops into a wedge.** A wedge is definitely where one has a bigger potential for earning money. Check out the next part.\r\n\r\n#### II. Wedges\r\n\r\nIn this market, I tend to trade the bullish indicators of the market, though at this moment (March 20th, 2019), the market seems to be on the overbought side. On the polar sides of overbought and oversoldness, I find that wedges tend to breakout more than usual in the other direction.\r\n\r\nHere's an example of a wedge with AAPL (I know there's some forward-looking bias here but I want to show an example with a frequently traded stock).\r\n\r\n![](https://www.tradingview.com/x/lTVdmOUX/)\r\n\r\nAs you can see, **as the range within the trending resistance and support lines diminish, the price is likely going to bounce in one direction or the other.** Typically, it goes the other way from its original direction (ascending triangle into downtrend, descending triangle into uptrend). Sometimes it continues the same outlook, but that is dependent largely on news, general market sentiment (investor/trader confidence), and maybe earnings.\r\n\r\n> Think about psychology in this case. Will people be willing to bet more money into the stock when they believe it to have grown? Traders who have already profitted would likely sell off or buy off into the other direction depending on the previous triangular trends.\r\n\r\n### 5) News\r\n\r\nI actually made most (and lost) most of my money through news. After going through good and bad episodes of buying and selling the news, I have come to a few conclusions. \r\n\r\nThere are two types of news that one should pay attention to. Also keep in mind that in scenarios like this, I think as both a trader and an investor and all technical indicators are thrown out the window. \r\n\r\nOnly historical data and a good sense of psychology will be the most beneficial in this scenario.\r\n\r\nAnyways, here are the two types which are pretty simple:\r\n\r\n1. Long-term damaging and potential signal of danger to the company (Blue Apron business model, Kraft-Heinz record losses, and overall decreasing in popularity)\r\n2. Impulse news or short-term impact news (Analyst downgrade based on largely speculation, the Boeing crash, Johnson & Johnson baby powder scandal, Elon Musk being a memer)\r\n\r\nI find that I don't really encounter the first type of news in the first place. This is mostly due to the fact that I'm just not particularly interested in those specific sectors, and I typically focus on high market share stocks such as Apple, Facebook, Nvidia, AMD, Alibaba, et cetera or I just trade the SPY.\r\n\r\nEither way, I did pick up trading Boeing and Tesla as of late due to the recent news. In fact, I'll just lay out my theses here.\r\n\r\n#### Deciphering impulse news\r\n\r\n##### Johnson & Johnson Case\r\nWhen Johnson & Johnson (JNJ) talked about the baby powder scandal in December 2018, the media ate it up like cake. Non-stop reporting for news coverage and revenue comes from talking about topics such as these, so that is to be expected. Surely enough, JNJ lost up to 15% of its share value within a couple weeks. \r\n\r\nSlowly but surely, we now see it return from $123 to $138. Why? Simply because this baby powder scandal did not pose a long-term threat to JNJ. This baby powder scandal was just one product out of thousands if not tens of thousands of JNJ products. \r\n\r\n##### Boeing Case\r\nBoeing is a more recent and much, much more tragic case, where hundreds of people have lost their lives due to a software bug in the angle of attack system. Still, even with this tragic event we can still see the resilience of Boeing as a company that might even get more investors to invest in the company in the long-run. The reasoning being that if even a tragic case such as this was not enough to send a large amount of investors from selling off the stock, the company is __almost__ certainly clear for the skies in the long-run.\r\n\r\nAn investor understands that Boeing holds an extremely large market share and means of production when it comes to aircraft. Nearly all major airlines operate Boeing aircraft, and not exclusively to the Boeing 737 Max Series.\r\n\r\nAs of current news, a lot of bad news have been consistently pricing in, ultimately leading to the grounding of all Boeing 737 Max aircraft until a definite resolution has been made. This will definitely cut into Boeing's earnings and revenue as the company will have to pay large penalties and deal with PR issues.\r\n\r\nEven so, Boeing still holds consistently at $370, and I remember explicitly that the day Boeing dropped from $420 to $370, it bounced right back up to $400 in just one day. Of course, that was until bad news were only expanded upon. \r\n\r\nBoeing in the long-term, let's say 5-10 years from now will be slightly dented from this incident. So what does an investor think? An investor will think, \"This is the time to buy Boeing at a discount!\"\r\n\r\nAs a trader, specifically an options trader, this has some large implications with regards to volatility. Risk and reward, establishment of support and resistance lines, learning to scalp might make one trade profitably in this scenario.\r\n\r\n##### Tesla Case\r\nElon Musk likes to talk smack and knock the price down, and Tesla's metrics has not been so stellar either, leading to an astounding loss in the stock's value over the last few months. Yet, TSLA shows time and time again that so many investors love to buy the stock as much as short-sellers love to short the stock even in the face of bad news. What does this mean? Eventually, I believe the longs will win out over the shorts unless more bad news happens. Improbable, but certainly possible. \r\n\r\n\r\n## Progress update\r\n\r\nI think I've definitely learned a lot since my last blog post. Looking back, I definitely changed the way I think and I'm glad for it. Also I'm not as much of a fanboy of Robinhood anymore as I am of InteractiveBrokers (mostly because Robinhood absolutely sucks at filling orders which sometimes cost me more than the cost of commissions).\r\n\r\n### Self-criticism\r\n\r\nThus far, I have been able to grow $1,400 to $3,500 over the last two months while maintaining a medium-level of risk (30% account exposure to options) over the last two months. I know, pretty high percentage-wise in terms of exposure, but this is precisely due to the fact that I happen to have a relatively small account. \r\n\r\nLast week I was actually originally up $4,200 at one point this month. The following days, I broke my discipline of 30% account exposure to options, and overtraded. I quickly fell back to $2,500 (-$500 on Weibo, -$1000 on TSLA, -$200 on a combination of other various stocks I traded).\r\n\r\n Had I not been so overly optimistic and confident, and trusted in rational decision-making, I would probably have been saying I grew $1,400 to $6,000 instead. My father assured me that this was normal. Ray Dalio, the founder of Bridgewater, went through worse tribulations than I did before building the US's largest hedge fund. You live and you learn!\r\n\r\nI bought WB at the peak out of too much optimism from my previous winning trades, betted on TSLA breaking through support and heavily shorted it, and then became impatient with losing trades after. A recipe for disaster.\r\n\r\nI may have managed to recover, but I will keep this experience in mind in the future. Definitely will prove to be valuable when I have more money in my account.\r\n\r\n**Didn't do as well as I had hoped, but this was because I made as many good decisions as I made bad decisions. At the end of the day, it could have been worse. The rest really boiled down to luck and I really want myself to be wary of this.**\r\n\r\n### Changing trading habits\r\n\r\nI have swapped the time frames on all my option contracts to at the very least 1 month prior to expiration so theta decay doesn't bite me later. \r\n\r\nThe only thing that is unfortunate about this is that you gain less money when your contract is ITM, but I really don't mind sizing down that risk as short-term contracts often times don't work out in your favor in a lot of times. \r\n\r\n_Giving yourself breathing room for your theory to play out even though things might be going south is what I find to be pretty crucial in being consistently profitable. I find trusting the mathematics, statistics, and indicators to be much more powerful than your gut._\r\n\r\n\r\n## Closing remarks\r\n\r\nThese are the five technical indicators and sentiment analysis I think about before entering a trade. I believe that learning about the markets and making decisions in this manner will give me an edge, but the mindset is ultimately what will be the determining factor. I'm currently delving into trading psychology audiobooks on Audible and will be releasing a reading list of the trading books I plan to read for 2019. Stay tuned!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "fileAbsolutePath": "C:/Users/David Gong/new-site/src/content/2019-03-19-a-framework-for-placing-trades.md",
+      "fields": {
+        "slug": "framework-placing-trades"
+      }
+    },
+    "87ed6988-69fc-5e73-80b9-06f872f864c1": {
+      "id": "87ed6988-69fc-5e73-80b9-06f872f864c1",
+      "children": [],
+      "parent": "df474b62-f242-5862-aee0-c435d287b60c",
+      "internal": {
+        "content": "\r\n>Preface: This is unrelated to trading algorithms at the moment, but this is just more related to what I think about before deciding to take a position on a trade, how I hedge trades, etc. \r\n\r\n## Introduction\r\n\r\nIn my previous post I talked about some of the technical trading indicators that I think about before entering a trade, primarily to determine probability, opportunity flow, and risk-reward analysis. A contrarian view is key to success here and it is important to know when to separate yourself from the herd during certain situations (over-optimism, over-pessimism).\r\n\r\nMy initial plan with regards to reading trading books was primarily to boost my knowledge of the markets and to establish principles and discipline when it comes to trading. Am I willing to accept responsibility for the risks going into a trade? Can I handle being wrong? Is there another overlooked perspective I didn't consider? These were just a few questions I have everytime I lose a trade. As a result, I present forth a few books I would like to read in order to hone my future trading mindset.\r\n\r\n> It's not whether you are right or wrong that is important. It is how much money you make when you are right and how much money you lose when you are wrong.\r\n\r\n## Books\r\n\r\nThis will be structured primarily by listing the key takeaways from each book and how I can apply these to my everyday trading habits.\r\n\r\n### 1) __Trading in the Zone__ by Mark Douglas (IN PROGRESS)\r\n\r\n- **Assume full responsibility for your losses**. An external catalyst can easily turn your winning trade into a losing trade. Don't blame the market, and realize that losses happen and mature from it. Do not feel hurt, angry, or sad when you lose a trade, and do not feel overly optimistic when you win a trade.\r\n- **Practice consistency.** Maybe you had a lucky run (totally me). But can you always have lucky runs without a plan/strategy? There has to be a basic framework for entering and exiting trades, and once that strategy is established, live and die by its rules until adjustments need to be made. Your equity curve should be relatively stable and uptrending, not a quick uptrend into a steep descent.\r\n- **Are you projecting your feelings onto the market?** Even if your technical analysis and the stars align, sometimes you hesitate for fear of being wrong. You remember that one incident where your trade went wrong, and you now gather information to support an opposing thesis that is less likely to happen. Act on market information and not from past emotional projections, and do not be afraid of being wrong.\r\n\r\n### 2) __Principles__ by Ray Dalio (IN PROGRESS)\r\n\r\n- **Seek out the opinions of others.** Don't be so sure you are right. Make sure the holistic view is presented, and then make your decision. Being biased by emotions or cockiness is sure to lead to undesirable losses.\r\n\r\n\r\nIf there are any other books you think I should read and draw takeaways from, please do list them in the comments!",
+        "type": "MarkdownRemark",
+        "contentDigest": "0f279021c44c286e3da1a10766b320de",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "A Reading List for Trading (2019)",
+        "slug": "trading-reading-list",
+        "date": "2019-04-04T02:38:23.251Z",
+        "description": "Books I plan to read to help me understand trading psychology and technical analysis.",
+        "tags": [
+          "Trading",
+          "Psychology"
+        ],
+        "headerImage": "",
+        "templateKey": "blog-post"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n>Preface: This is unrelated to trading algorithms at the moment, but this is just more related to what I think about before deciding to take a position on a trade, how I hedge trades, etc. \r\n\r\n## Introduction\r\n\r\nIn my previous post I talked about some of the technical trading indicators that I think about before entering a trade, primarily to determine probability, opportunity flow, and risk-reward analysis. A contrarian view is key to success here and it is important to know when to separate yourself from the herd during certain situations (over-optimism, over-pessimism).\r\n\r\nMy initial plan with regards to reading trading books was primarily to boost my knowledge of the markets and to establish principles and discipline when it comes to trading. Am I willing to accept responsibility for the risks going into a trade? Can I handle being wrong? Is there another overlooked perspective I didn't consider? These were just a few questions I have everytime I lose a trade. As a result, I present forth a few books I would like to read in order to hone my future trading mindset.\r\n\r\n> It's not whether you are right or wrong that is important. It is how much money you make when you are right and how much money you lose when you are wrong.\r\n\r\n## Books\r\n\r\nThis will be structured primarily by listing the key takeaways from each book and how I can apply these to my everyday trading habits.\r\n\r\n### 1) __Trading in the Zone__ by Mark Douglas (IN PROGRESS)\r\n\r\n- **Assume full responsibility for your losses**. An external catalyst can easily turn your winning trade into a losing trade. Don't blame the market, and realize that losses happen and mature from it. Do not feel hurt, angry, or sad when you lose a trade, and do not feel overly optimistic when you win a trade.\r\n- **Practice consistency.** Maybe you had a lucky run (totally me). But can you always have lucky runs without a plan/strategy? There has to be a basic framework for entering and exiting trades, and once that strategy is established, live and die by its rules until adjustments need to be made. Your equity curve should be relatively stable and uptrending, not a quick uptrend into a steep descent.\r\n- **Are you projecting your feelings onto the market?** Even if your technical analysis and the stars align, sometimes you hesitate for fear of being wrong. You remember that one incident where your trade went wrong, and you now gather information to support an opposing thesis that is less likely to happen. Act on market information and not from past emotional projections, and do not be afraid of being wrong.\r\n\r\n### 2) __Principles__ by Ray Dalio (IN PROGRESS)\r\n\r\n- **Seek out the opinions of others.** Don't be so sure you are right. Make sure the holistic view is presented, and then make your decision. Being biased by emotions or cockiness is sure to lead to undesirable losses.\r\n\r\n\r\nIf there are any other books you think I should read and draw takeaways from, please do list them in the comments!",
+      "fileAbsolutePath": "C:/Users/David Gong/new-site/src/content/2019-04-04-Reading-List-For-Trading.md",
+      "fields": {
+        "slug": "trading-reading-list"
+      }
+    },
+    "c86a7411-7863-53ec-97a8-fcf515ae2fa6": {
+      "id": "c86a7411-7863-53ec-97a8-fcf515ae2fa6",
+      "children": [],
+      "parent": "bb6972cb-6908-59fa-a45b-f84c32d60fed",
+      "internal": {
+        "content": "\r\n>[Kaggle](https://kaggle.com) is an online community of data scientists and machine learners, owned by Google LLC. Users can find datasets and participate in competitions for prizes and more importantly, for experience!\r\n\r\nCheck out my [Kaggle profile](https://kaggle.com/davidcgong)!\r\n\r\n![Kaggle](data:image/png;base64,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)\r\n\r\n## What is Kaggle?\r\n\r\nWhile attempting to gain a better understanding about the world of data science, I came around one platform that served as an extremely insightful tool named Kaggle. On Kaggle, one can find datasets, participate in competitions, and connect with other data scientists and share knowledge.\r\n\r\nI chose to delve into learning about Kaggle competitions to learn about what worked, what doesn't, and how it would be applicable in real life situations. Surprisingly, I was able to place within the top 15% of competition for some competitions (Microsoft Malware Prediction and Elo Merchant Category Recommendation) even as a beginner.\r\n\r\n## Kaggle competitions?\r\n\r\nTo simply put it, anyone can participate in a Kaggle competition, in which you are given an overview of the problem along with datasets. It is then entirely up to you to determine how to make use of these datasets and determine the problem in your way. \r\n\r\nOf course, often times you will find many kernels and discussions that will help you start out with a problem.\r\n\r\nWhen submitting predictions prior to the competition deadline, you will receive an initial score based on the performance of your predictions with the current set of training data. \r\n\r\nThe final score you obtain may be used against future data, against the rest of the training data, and such.\r\n\r\n## Producing accurate results in general\r\n\r\n![A guideline for generating a successful model](https://elitedatascience.com/wp-content/uploads/2018/05/What-Goes-Into-a-Successful-Model.jpg)\r\n\r\nAlgorithm selection in my opinion should take a little bit more precedence than 'other', but the key takeaway is that this diagram just shows that having one flaw when producing a model can generate substandard and undesired results.\r\n\r\n\r\n## Three things to think about\r\n\r\nWhen it comes to deciding the approach to doing well on Kaggle competitions, there are probably three basic, fundamental ideas to consider outside of EDA (exploratory data analysis).\r\n\r\n### 1) Algorithm selection (Boosting, neural networks?)\r\n\r\nFor most competitions and datasets that involve some form of supervised learning, typically the best approach is to use gradient boosting. **In particular, Kagglers are heavily biased towards using [XGBoost](https://xgboost.readthedocs.io/en/latest/) and [LightGBM](https://lightgbm.readthedocs.io/en/latest/)**. \r\n\r\nOther ideas such as neural networks may work as well. Standalone decision trees on the other hand, well maybe not so much when it comes to accuracy. Kaggle doesn't care about performance, but only cares about accuracy.\r\n\r\n**Blending is also a popular technique used by many Kagglers**, which essentially combines many test results using various algorithms (and hyperparameters) through calculating the mean or using a specified weight for determining values.\r\n\r\nThat said, there are also various other problems that require different solutions. For example, you might consider a convolutional neural network for an image classification problem as the previous algorithms either don't work as well or are just incompatible.\r\n\r\n### 2) Feature engineering\r\n\r\n>Feature engineering is the process of using domain knowledge of the data to create features that make machine learning algorithms work. Feature engineering is fundamental to the application of machine learning, and is both difficult and expensive. -Wikipedia\r\n\r\nA lot of times you are thrown a bunch of features and categories that you have to determine that are worth to be relevant or not. Many times, the training dataset that is given to you often only has a few features. Running an algorithm on that dataset probably wouldn't get you very far in terms of accuracy.\r\n\r\n**Learning to rank features by importance and merging them with the training dataset is ultimately what will separate the Kaggle competition expert from the beginner.** Afterwards, it comes down to understanding the problem and adjusting hyperparameters. \r\n\r\n### 3) Cloud computing\r\n\r\nDepending on the size of the dataset, the competition problem, and the way you constructed your model (feature engineering), your model may take anywhere from 30 minutes to a day (maybe even days) to train and generate predictions. \r\n\r\nIn many cases, running models on the Kaggle kernel is enough to solve this problem. Your model trains offline on Kaggle's server, which is perfect for the busy student who is just tuning hyperparameters on a model that takes more than 20 hours to run! _Not talking about me by the way..._\r\n\r\nA few other options would be to employ AWS instances to quickly deploy a machine learning model, which can often be faster and less cost-expensive than utilizing your own GPU and RAM.\r\n\r\nOverall, however, I would recommend just sticking with the kernel and learning about the various approaches to competition problems and feature engineering as mentioned above.\r\n\r\n## Closing thoughts\r\n\r\nThese are once again very basic ideas that one should know before going into a competition, but I believe that developing good fundamentals over time is much more important. Read books, look through notebooks of past winners, adopt their methods, and then you might just get that Kaggle gold medal one day. :)",
+        "type": "MarkdownRemark",
+        "contentDigest": "610f73a6de44f7b1663e3ea0f3d44c58",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Beginner's Guide to Kaggle Competitions",
+        "slug": "beginners-guide-to-kaggle",
+        "date": "2019-03-06T02:38:23.251Z",
+        "description": "The three main things to know for getting a higher score on Kaggle competitions.",
+        "tags": [
+          "Data Science",
+          "Machine Learning"
+        ],
+        "headerImage": "http://static1.squarespace.com/static/56f31e1745bf21a9d5220d2e/583c89ec6a49631ee35b5a01/5a95f7a6419202d2af94ee36/1519934676684/KAGGLE+hUB101.png?format=1500w",
+        "templateKey": "blog-post"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n>[Kaggle](https://kaggle.com) is an online community of data scientists and machine learners, owned by Google LLC. Users can find datasets and participate in competitions for prizes and more importantly, for experience!\r\n\r\nCheck out my [Kaggle profile](https://kaggle.com/davidcgong)!\r\n\r\n![Kaggle](data:image/png;base64,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)\r\n\r\n## What is Kaggle?\r\n\r\nWhile attempting to gain a better understanding about the world of data science, I came around one platform that served as an extremely insightful tool named Kaggle. On Kaggle, one can find datasets, participate in competitions, and connect with other data scientists and share knowledge.\r\n\r\nI chose to delve into learning about Kaggle competitions to learn about what worked, what doesn't, and how it would be applicable in real life situations. Surprisingly, I was able to place within the top 15% of competition for some competitions (Microsoft Malware Prediction and Elo Merchant Category Recommendation) even as a beginner.\r\n\r\n## Kaggle competitions?\r\n\r\nTo simply put it, anyone can participate in a Kaggle competition, in which you are given an overview of the problem along with datasets. It is then entirely up to you to determine how to make use of these datasets and determine the problem in your way. \r\n\r\nOf course, often times you will find many kernels and discussions that will help you start out with a problem.\r\n\r\nWhen submitting predictions prior to the competition deadline, you will receive an initial score based on the performance of your predictions with the current set of training data. \r\n\r\nThe final score you obtain may be used against future data, against the rest of the training data, and such.\r\n\r\n## Producing accurate results in general\r\n\r\n![A guideline for generating a successful model](https://elitedatascience.com/wp-content/uploads/2018/05/What-Goes-Into-a-Successful-Model.jpg)\r\n\r\nAlgorithm selection in my opinion should take a little bit more precedence than 'other', but the key takeaway is that this diagram just shows that having one flaw when producing a model can generate substandard and undesired results.\r\n\r\n\r\n## Three things to think about\r\n\r\nWhen it comes to deciding the approach to doing well on Kaggle competitions, there are probably three basic, fundamental ideas to consider outside of EDA (exploratory data analysis).\r\n\r\n### 1) Algorithm selection (Boosting, neural networks?)\r\n\r\nFor most competitions and datasets that involve some form of supervised learning, typically the best approach is to use gradient boosting. **In particular, Kagglers are heavily biased towards using [XGBoost](https://xgboost.readthedocs.io/en/latest/) and [LightGBM](https://lightgbm.readthedocs.io/en/latest/)**. \r\n\r\nOther ideas such as neural networks may work as well. Standalone decision trees on the other hand, well maybe not so much when it comes to accuracy. Kaggle doesn't care about performance, but only cares about accuracy.\r\n\r\n**Blending is also a popular technique used by many Kagglers**, which essentially combines many test results using various algorithms (and hyperparameters) through calculating the mean or using a specified weight for determining values.\r\n\r\nThat said, there are also various other problems that require different solutions. For example, you might consider a convolutional neural network for an image classification problem as the previous algorithms either don't work as well or are just incompatible.\r\n\r\n### 2) Feature engineering\r\n\r\n>Feature engineering is the process of using domain knowledge of the data to create features that make machine learning algorithms work. Feature engineering is fundamental to the application of machine learning, and is both difficult and expensive. -Wikipedia\r\n\r\nA lot of times you are thrown a bunch of features and categories that you have to determine that are worth to be relevant or not. Many times, the training dataset that is given to you often only has a few features. Running an algorithm on that dataset probably wouldn't get you very far in terms of accuracy.\r\n\r\n**Learning to rank features by importance and merging them with the training dataset is ultimately what will separate the Kaggle competition expert from the beginner.** Afterwards, it comes down to understanding the problem and adjusting hyperparameters. \r\n\r\n### 3) Cloud computing\r\n\r\nDepending on the size of the dataset, the competition problem, and the way you constructed your model (feature engineering), your model may take anywhere from 30 minutes to a day (maybe even days) to train and generate predictions. \r\n\r\nIn many cases, running models on the Kaggle kernel is enough to solve this problem. Your model trains offline on Kaggle's server, which is perfect for the busy student who is just tuning hyperparameters on a model that takes more than 20 hours to run! _Not talking about me by the way..._\r\n\r\nA few other options would be to employ AWS instances to quickly deploy a machine learning model, which can often be faster and less cost-expensive than utilizing your own GPU and RAM.\r\n\r\nOverall, however, I would recommend just sticking with the kernel and learning about the various approaches to competition problems and feature engineering as mentioned above.\r\n\r\n## Closing thoughts\r\n\r\nThese are once again very basic ideas that one should know before going into a competition, but I believe that developing good fundamentals over time is much more important. Read books, look through notebooks of past winners, adopt their methods, and then you might just get that Kaggle gold medal one day. :)",
+      "fileAbsolutePath": "C:/Users/David Gong/new-site/src/content/2019-03-15-beginners-guide-kaggle.md",
+      "fields": {
+        "slug": "beginners-guide-to-kaggle"
+      }
+    },
+    "SitePage /trading-reading-list": {
+      "jsonName": "trading-reading-list-954",
+      "internalComponentName": "ComponentTradingReadingList",
+      "path": "/trading-reading-list",
+      "component": "C:/Users/David Gong/new-site/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "87ed6988-69fc-5e73-80b9-06f872f864c1",
+        "index": 0
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/blog-post.js",
+      "id": "SitePage /trading-reading-list",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "53443708435cfb4d7f05ba914b9fdb19",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /framework-placing-trades": {
+      "jsonName": "framework-placing-trades-eee",
+      "internalComponentName": "ComponentFrameworkPlacingTrades",
+      "path": "/framework-placing-trades",
+      "component": "C:/Users/David Gong/new-site/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "6f8db850-3ae1-5ff6-af4d-266ef48359d6",
+        "index": 1
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/blog-post.js",
+      "id": "SitePage /framework-placing-trades",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bcc10f1146ce9ec3ea9d841efea12999",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /beginners-guide-to-kaggle": {
+      "jsonName": "beginners-guide-to-kaggle-cbf",
+      "internalComponentName": "ComponentBeginnersGuideToKaggle",
+      "path": "/beginners-guide-to-kaggle",
+      "component": "C:/Users/David Gong/new-site/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "c86a7411-7863-53ec-97a8-fcf515ae2fa6",
+        "index": 2
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/blog-post.js",
+      "id": "SitePage /beginners-guide-to-kaggle",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4c8673959ab80832ba855356487d5bb5",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /trading-options-part-1": {
+      "jsonName": "trading-options-part-1-916",
+      "internalComponentName": "ComponentTradingOptionsPart1",
+      "path": "/trading-options-part-1",
+      "component": "C:/Users/David Gong/new-site/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "5aed47f6-57e3-5809-834d-61ae02c9d7cb",
+        "index": 3
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/blog-post.js",
+      "id": "SitePage /trading-options-part-1",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3dcedef94f12b8f8c37e1b7bf1f9947d",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about": {
+      "jsonName": "about-771",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about",
+      "component": "C:/Users/David Gong/new-site/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "dbe5244f-1528-5c3d-97d7-cc7c07d1b11d",
+        "index": 4
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/blog-post.js",
+      "id": "SitePage /about",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "46c7cb8c895ee63bcf3851534b493f71",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /guestbook": {
+      "jsonName": "guestbook-81f",
+      "internalComponentName": "ComponentGuestbook",
+      "path": "/guestbook",
+      "component": "C:/Users/David Gong/new-site/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "bc4ec2f9-1ad2-56de-8982-4af89d92f332",
+        "index": 5
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/blog-post.js",
+      "id": "SitePage /guestbook",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cb7046d055c8e6caa8cad13dc9ac08c5",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/Trading": {
+      "jsonName": "tag-trading-866",
+      "internalComponentName": "ComponentTagTrading",
+      "path": "/tag/Trading",
+      "component": "C:/Users/David Gong/new-site/src/templates/tag.js",
+      "componentChunkName": "component---src-templates-tag-js",
+      "context": {
+        "tag": "Trading"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/tag.js",
+      "id": "SitePage /tag/Trading",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "856060a9a074f18d409be8095cd450f6",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/Psychology": {
+      "jsonName": "tag-psychology-00a",
+      "internalComponentName": "ComponentTagPsychology",
+      "path": "/tag/Psychology",
+      "component": "C:/Users/David Gong/new-site/src/templates/tag.js",
+      "componentChunkName": "component---src-templates-tag-js",
+      "context": {
+        "tag": "Psychology"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/tag.js",
+      "id": "SitePage /tag/Psychology",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1cde6d512dc03e1b04df8971265cb9ed",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/Options": {
+      "jsonName": "tag-options-b6a",
+      "internalComponentName": "ComponentTagOptions",
+      "path": "/tag/Options",
+      "component": "C:/Users/David Gong/new-site/src/templates/tag.js",
+      "componentChunkName": "component---src-templates-tag-js",
+      "context": {
+        "tag": "Options"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/tag.js",
+      "id": "SitePage /tag/Options",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1b76799da27f2bb3c404c01c3f09ef69",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/Data Science": {
+      "jsonName": "tag-data-science-f5b",
+      "internalComponentName": "ComponentTagDataScience",
+      "path": "/tag/Data Science",
+      "component": "C:/Users/David Gong/new-site/src/templates/tag.js",
+      "componentChunkName": "component---src-templates-tag-js",
+      "context": {
+        "tag": "Data Science"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/tag.js",
+      "id": "SitePage /tag/Data Science",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a5f58ed5728958cf7a0cdb176ad68bee",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/Machine Learning": {
+      "jsonName": "tag-machine-learning-a9a",
+      "internalComponentName": "ComponentTagMachineLearning",
+      "path": "/tag/Machine Learning",
+      "component": "C:/Users/David Gong/new-site/src/templates/tag.js",
+      "componentChunkName": "component---src-templates-tag-js",
+      "context": {
+        "tag": "Machine Learning"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/tag.js",
+      "id": "SitePage /tag/Machine Learning",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "427620a790e54800b9d64125b84f7848",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/Personal": {
+      "jsonName": "tag-personal-b18",
+      "internalComponentName": "ComponentTagPersonal",
+      "path": "/tag/Personal",
+      "component": "C:/Users/David Gong/new-site/src/templates/tag.js",
+      "componentChunkName": "component---src-templates-tag-js",
+      "context": {
+        "tag": "Personal"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/tag.js",
+      "id": "SitePage /tag/Personal",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3a00b910cfc89b02d1b7e65a11ab17e7",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "C:/Users/David Gong/new-site/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "c057086d-b5e9-5ddb-8951-7c1b86cf15eb",
+      "pluginCreatorId": "c057086d-b5e9-5ddb-8951-7c1b86cf15eb",
+      "componentPath": "C:/Users/David Gong/new-site/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a92f4e2277e07fad198e398c6e3bc4e6",
+        "description": "c057086d-b5e9-5ddb-8951-7c1b86cf15eb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/David Gong/new-site/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "c057086d-b5e9-5ddb-8951-7c1b86cf15eb",
+      "pluginCreatorId": "c057086d-b5e9-5ddb-8951-7c1b86cf15eb",
+      "componentPath": "C:/Users/David Gong/new-site/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "33893f16406ab41c72b86c0db96b6167",
+        "description": "c057086d-b5e9-5ddb-8951-7c1b86cf15eb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/": {
+      "jsonName": "tags-275",
+      "internalComponentName": "ComponentTags",
+      "path": "/tags/",
+      "component": "C:/Users/David Gong/new-site/src/pages/tags.js",
+      "componentChunkName": "component---src-pages-tags-js",
+      "context": {},
+      "pluginCreator___NODE": "c057086d-b5e9-5ddb-8951-7c1b86cf15eb",
+      "pluginCreatorId": "c057086d-b5e9-5ddb-8951-7c1b86cf15eb",
+      "componentPath": "C:/Users/David Gong/new-site/src/pages/tags.js",
+      "id": "SitePage /tags/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6ed067e323d8097cec92437f3d66c581",
+        "description": "c057086d-b5e9-5ddb-8951-7c1b86cf15eb",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "380070ce0a1ffc7c58af7ccb6b086c4b"
+  },
+  "componentDataDependencies": {
+    "nodes": {},
+    "connections": {
+      "MarkdownRemark": [
+        null,
+        "/",
+        "/tags/",
+        "/trading-reading-list",
+        "/framework-placing-trades",
+        "/beginners-guide-to-kaggle",
+        "/trading-options-part-1",
+        "/about",
+        "/guestbook",
+        "/tag/Trading",
+        "/tag/Psychology",
+        "/tag/Options",
+        "/tag/Data Science",
+        "/tag/Machine Learning",
+        "/tag/Personal",
+        null
+      ],
+      "SitePage": [
+        "/404/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "tags-275": "304/path---tags-275-fc0-6IfLSzaXJymzdG7VjBXFwYA8cU0",
+    "index": "505/path---index-6a9-ywjh6XdufUrEBAD9jxLji0pSV88",
+    "404-22d": "663/path---404-22-d-bce-d6EpWRzZtt4qO1azn8MFSFsfB8",
+    "404-html-516": "507/path---404-html-516-62a-QNc7wfE9aYvs8HVLNZtvYXK854s",
+    "trading-reading-list-954": "717/path---trading-reading-list-954-d71-z7y9gNx28sOwUFWRGGbqZNPi0",
+    "framework-placing-trades-eee": "108/path---framework-placing-trades-eee-1b3-xiKt3flxESAEsOIYJtz2CwDow64",
+    "beginners-guide-to-kaggle-cbf": "875/path---beginners-guide-to-kaggle-cbf-3b8-LR05HAPdS2PB9fyzp5AkrRXPorg",
+    "trading-options-part-1-916": "4/path---trading-options-part-1-916-8e6-FrKvWIYWdsl0vQVfJxcTlej6cM",
+    "tag-trading-866": "691/path---tag-trading-866-519-zFCHDByza2Cn9MhP0ZjLGzRHOE",
+    "tag-psychology-00a": "660/path---tag-psychology-00-a-bb8-4n9urkJChyCp57SfLu69oD3AM8",
+    "about-771": "705/path---about-771-2fe-iFHB2lCMZ3PXs4e404IbfVwJBs",
+    "guestbook-81f": "25/path---guestbook-81-f-132-REiziJrXfkoNUUcNpiaJAAPLwvc",
+    "tag-options-b6a": "813/path---tag-options-b-6-a-08b-HCgMaayxpH4CePJUzD9xkfKZU",
+    "tag-data-science-f5b": "394/path---tag-data-science-f-5-b-fb9-XtoavwEHX6ZWSsqf84CBdL3Efg",
+    "tag-machine-learning-a9a": "871/path---tag-machine-learning-a-9-a-29b-XgIFya1Ogl75KJqi2DyFmntM",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "tag-personal-b18": "604/path---tag-personal-b-18-cce-5tLlASgZEenmQu0Q4USoWcUzRHs"
+  },
+  "components": {
+    "C:/Users/David Gong/new-site/src/templates/blog-post.js": {
+      "query": "query BlogPostQuery(\n  $index: Int\n) {\n  content: allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}, skip: $index, limit: 1) {\n    edges {\n      node {\n        id\n        html\n        tableOfContents\n        excerpt\n        ...post\n      }\n      previous {\n        ...post\n      }\n      next {\n        ...post\n      }\n    }\n  }\n  latestPosts: allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}, limit: 6) {\n    totalCount\n    edges {\n      node {\n        ...post\n      }\n    }\n  }\n}\n\nfragment post on MarkdownRemark {\n  fields {\n    slug\n  }\n  frontmatter {\n    id\n    title\n    slug\n    date\n    headerImage\n  }\n}\n",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/blog-post.js"
+    },
+    "C:/Users/David Gong/new-site/src/templates/tag.js": {
+      "query": "query tagQuery(\n  $tag: [String!]\n) {\n  allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}, filter: {frontmatter: {tags: {in: $tag}}}) {\n    edges {\n      node {\n        id\n        frontmatter {\n          id\n          url: slug\n          title\n          date\n          tags\n          headerImage\n          description\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "C:/Users/David Gong/new-site/src/templates/tag.js"
+    },
+    "C:/Users/David Gong/new-site/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "C:/Users/David Gong/new-site/.cache/dev-404-page.js"
+    },
+    "C:/Users/David Gong/new-site/src/pages/404.js": {
+      "query": "query getAllPages {\n  allSitePage {\n    edges {\n      node {\n        path\n      }\n    }\n  }\n}\n",
+      "componentPath": "C:/Users/David Gong/new-site/src/pages/404.js"
+    },
+    "C:/Users/David Gong/new-site/src/pages/index.js": {
+      "query": "query BlogQuery {\n  content: allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}) {\n    edges {\n      node {\n        ...cardData\n      }\n      previous {\n        ...cardData\n      }\n      next {\n        ...cardData\n      }\n    }\n  }\n  latestPosts: allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}, limit: 6) {\n    totalCount\n    edges {\n      node {\n        ...cardData\n      }\n    }\n  }\n}\n\nfragment cardData on MarkdownRemark {\n  fields {\n    slug\n  }\n  frontmatter {\n    id\n    title\n    url: slug\n    date\n    tags\n    description\n    headerImage\n  }\n}\n",
+      "componentPath": "C:/Users/David Gong/new-site/src/pages/index.js"
+    },
+    "C:/Users/David Gong/new-site/src/pages/tags.js": {
+      "query": "query getAllTags {\n  allMarkdownRemark {\n    edges {\n      node {\n        frontmatter {\n          tags\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "C:/Users/David Gong/new-site/src/pages/tags.js"
+    }
+  },
+  "staticQueryComponents": {}
+}

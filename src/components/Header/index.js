@@ -19,7 +19,7 @@ const Header = ({
     <div
       className="img-container"
       style={{
-        backgroundImage: `linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(${img})`,
+        backgroundImage: `linear-gradient( rgba(0, 0, 0), rgba(0, 51, 75) ), url(${img})`,
         marginTop: -58,
       }}
     >

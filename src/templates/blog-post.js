@@ -68,7 +68,7 @@ class BlogPost extends Component {
     return (
       <div className="row post order-2">
         <Header
-          img={headerImage || 'https://cdn.pixabay.com/photo/2016/11/23/14/37/blur-1853262_1280.jpg'}
+          img={headerImage || ''}
           title={title}
           authorName={name}
           authorImage={iconUrl}

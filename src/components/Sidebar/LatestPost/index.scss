@@ -6,8 +6,8 @@
     text-align: left;
 
     &:hover {
-      text-decoration: none;
+      color: $light-blue !important;
     }
-    margin: 5px 0;
+    margin: 10px 0;
   }
 }

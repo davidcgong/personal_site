@@ -1,0 +1,82 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-22d",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "about-771",
+        "path": "/about"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "beginners-guide-to-kaggle-cbf",
+        "path": "/beginners-guide-to-kaggle"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "framework-placing-trades-eee",
+        "path": "/framework-placing-trades"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "guestbook-81f",
+        "path": "/guestbook"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-js",
+        "jsonName": "tag-data-science-f5b",
+        "path": "/tag/Data Science"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-js",
+        "jsonName": "tag-machine-learning-a9a",
+        "path": "/tag/Machine Learning"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-js",
+        "jsonName": "tag-options-b6a",
+        "path": "/tag/Options"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-js",
+        "jsonName": "tag-personal-b18",
+        "path": "/tag/Personal"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-js",
+        "jsonName": "tag-psychology-00a",
+        "path": "/tag/Psychology"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-js",
+        "jsonName": "tag-trading-866",
+        "path": "/tag/Trading"
+    },
+    {
+        "componentChunkName": "component---src-pages-tags-js",
+        "jsonName": "tags-275",
+        "path": "/tags/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "trading-options-part-1-916",
+        "path": "/trading-options-part-1"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "trading-reading-list-954",
+        "path": "/trading-reading-list"
+    }
+]
